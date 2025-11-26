@@ -1,40 +1,159 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Rural Health Signal Monitor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 800px; margin: 40px auto; padding: 0 16px; }
-    h1 { color: #154360; }
-    .tagline { color: #555; margin-bottom: 1rem; }
-    a.button { display: inline-block; padding: 10px 16px; border-radius: 6px; background: #154360; color: white; text-decoration: none; margin-top: 12px; }
-    a.button:hover { background: #1f5b8a; }
-    .note { font-size: 0.9rem; color: #777; margin-top: 1rem; }
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 960px;
+      margin: 32px auto;
+      padding: 0 16px 40px 16px;
+      background: #f5f7fb;
+      color: #222;
+    }
+    h1 {
+      color: #154360;
+      margin-bottom: 0.25rem;
+    }
+    .tagline {
+      color: #555;
+      margin-bottom: 1.2rem;
+      font-size: 0.95rem;
+    }
+    .card {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 1rem 1.2rem;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+      margin-bottom: 1.2rem;
+    }
+    .card h2 {
+      margin-top: 0;
+      font-size: 1.05rem;
+      color: #1f4e79;
+    }
+    .card h3 {
+      margin-bottom: 0.3rem;
+      font-size: 0.95rem;
+      color: #154360;
+    }
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      margin-top: 0.8rem;
+    }
+    a.button {
+      display: inline-block;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: #154360;
+      color: white;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    a.button.secondary {
+      background: #e1e5f2;
+      color: #154360;
+    }
+    a.button:hover {
+      filter: brightness(1.05);
+    }
+    .small {
+      font-size: 0.85rem;
+      color: #666;
+    }
+    ul {
+      margin-top: 0.2rem;
+      margin-bottom: 0.5rem;
+      padding-left: 1.1rem;
+      font-size: 0.9rem;
+    }
+    li {
+      margin-bottom: 0.25rem;
+    }
+    #digest-snippet {
+      font-size: 0.9rem;
+    }
+    .snapshot-block {
+      margin-top: 0.6rem;
+      padding-top: 0.2rem;
+      border-top: 1px solid #eef1f7;
+    }
+    .snapshot-block h3 {
+      margin-top: 0.4rem;
+    }
+    a {
+      color: #1f5b8a;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 1.5rem;
+      font-size: 0.8rem;
+      color: #777;
+    }
   </style>
 </head>
 <body>
   <h1>Rural Health Signal Monitor</h1>
   <p class="tagline">
-    Daily AI-generated summaries of policy and payment news affecting rural hospitals, clinics, and GME pipelines.
+    Daily, automated tracking of policy news affecting rural hospitals, clinics, and GME pipelines.
   </p>
 
-  <p>
-    This site automatically:
-  </p>
-  <ul>
-    <li>Pulls rural-relevant health policy news from RSS feeds (CMS, KFF, Rural Health Information Hub, etc.).</li>
-    <li>Uses an AI model (<code>gpt-4o-mini</code>) to summarize key signals.</li>
-    <li>Publishes a daily digest highlighting risks and opportunities for rural providers and training programs.</li>
-  </ul>
+  <section class="card">
+    <h2>Today’s Rural Health Snapshot</h2>
+    <p class="small">
+      The snapshot below is generated automatically from rural-relevant news feeds using a
+      rule-based classifier (no paid AI API). It highlights what changed today, top risks,
+      and key signals for rural training programs.
+    </p>
+    <div id="digest-snippet">
+      <p class="small">Loading latest digest… If this message persists, the workflow may not have run yet.</p>
+    </div>
+    <div class="buttons">
+      <a class="button" href="daily_digest.html">Open full HTML digest</a>
+      <a class="button secondary" href="daily_digest.md">View raw Markdown digest</a>
+    </div>
+  </section>
 
-  <p>
-    👉 View today’s digest:  
-    <a class="button" href="daily_digest.md">Open Daily Rural Health Policy Digest</a>
-  </p>
+  <section class="card">
+    <h2>How this monitor works</h2>
+    <ul class="small">
+      <li>Fetches rural-relevant health policy news via RSS (e.g., KFF Health News, Rural Health Information Hub).</li>
+      <li>Uses a rule-based classifier to detect risk, opportunity, legislation/regulation, GME, and Deep South signals.</li>
+      <li>Builds a full daily digest (Markdown + HTML) and a homepage snapshot.</li>
+      <li>Runs entirely on GitHub Actions with no external API cost.</li>
+    </ul>
+  </section>
 
-  <p class="note">
-    This is a prototype portfolio project built using GitHub Actions + RSS + OpenAI.  
-    Data is for monitoring and educational purposes, not official policy guidance.
-  </p>
+  <footer>
+    This tool is intended for educational and strategic planning purposes, not as official policy guidance.
+  </footer>
+
+  <script>
+    // Fetch the small HTML snippet generated by summarize.py and inject into the homepage.
+    document.addEventListener("DOMContentLoaded", function () {
+      fetch("digest_snippet.html")
+        .then(function (resp) {
+          if (!resp.ok) {
+            throw new Error("HTTP " + resp.status);
+          }
+          return resp.text();
+        })
+        .then(function (html) {
+          document.getElementById("digest-snippet").innerHTML = html;
+        })
+        .catch(function (err) {
+          console.error(err);
+          document.getElementById("digest-snippet").innerHTML =
+            '<p class="small">Digest snippet is not yet available. The daily workflow may not have run, or there was an error generating today\'s digest.</p>';
+        });
+    });
+  </script>
 </body>
 </html>
