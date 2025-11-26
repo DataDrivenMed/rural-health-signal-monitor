@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Rural Health Signal Monitor</title>
+  <style>
+    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; max-width: 800px; margin: 40px auto; padding: 0 16px; }
+    h1 { color: #154360; }
+    .tagline { color: #555; margin-bottom: 1rem; }
+    a.button { display: inline-block; padding: 10px 16px; border-radius: 6px; background: #154360; color: white; text-decoration: none; margin-top: 12px; }
+    a.button:hover { background: #1f5b8a; }
+    .note { font-size: 0.9rem; color: #777; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>Rural Health Signal Monitor</h1>
+  <p class="tagline">
+    Daily AI-generated summaries of policy and payment news affecting rural hospitals, clinics, and GME pipelines.
+  </p>
+
+  <p>
+    This site automatically:
+  </p>
+  <ul>
+    <li>Pulls rural-relevant health policy news from RSS feeds (CMS, KFF, Rural Health Information Hub, etc.).</li>
+    <li>Uses an AI model (<code>gpt-4o-mini</code>) to summarize key signals.</li>
+    <li>Publishes a daily digest highlighting risks and opportunities for rural providers and training programs.</li>
+  </ul>
+
+  <p>
+    👉 View today’s digest:  
+    <a class="button" href="daily_digest.md">Open Daily Rural Health Policy Digest</a>
+  </p>
+
+  <p class="note">
+    This is a prototype portfolio project built using GitHub Actions + RSS + OpenAI.  
+    Data is for monitoring and educational purposes, not official policy guidance.
+  </p>
+</body>
+</html>
