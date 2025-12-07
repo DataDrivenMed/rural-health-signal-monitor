@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2025-12-06
+# Rural Health Policy Digest — 2025-12-07
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,7 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Journalists Dig Into Maine HIV Outbreak and Ever-Closer End to Enhanced ACA Subsidies — (_Sat, 06 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-december-6-2025-maine-hiv-outbreak-homelessness-trump-aca-subsidies/)
 - [KFF_Health_News] In RFK Jr.’s Upside-Down World of Vaccines, Panel Votes To End Hepatitis B Shot at Birth — (_Fri, 05 Dec 2025 20:31:39 +0000_) — [Link](https://kffhealthnews.org/news/article/cdc-acip-hepatitis-b-birth-dose-reversal-recommendation-rfk/)
 - [KFF_Health_News] Feds Promised ‘Radical Transparency’ but Withhold $50B Rural Fund Details — (_Fri, 05 Dec 2025 19:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-rural-health-transformation-program-fund-transparency/)
 - [KFF_Health_News] Mientras científicos estudian la propagación del sarampión en el país, Kennedy pone en riesgo avances que costaron décadas — (_Fri, 05 Dec 2025 12:59:56 +0000_) — [Link](https://kffhealthnews.org/news/article/mientras-cientificos-estudian-la-propagacion-del-sarampion-en-el-pais-kennedy-pone-en-riesgo-avances-que-costaron-decadas/)
@@ -15,7 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Tracking Applications for Rural Health Transformation Funds — (_Thu, 04 Dec 2025 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/tracking-applications-for-rural-health-transformation-funds/)
 - [KFF_Health_News] Under Kennedy, America’s Health Department Is in the Business of Promoting Kennedy — (_Thu, 04 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/robert-kennedy-rfk-maha-hhs-cdc-social-media-vaccines-tobacco/)
 - [KFF_Health_News] Republicans Left Tribes Out of Their $50B Rural Fund. Now It’s Up to States To Share. — (_Thu, 04 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/native-american-tribes-rural-health-transformation-program/)
-- [KFF_Health_News] Aunque se reanuda SNAP, nuevas reglas laborales amenazan el acceso al programa de alimentos por años — (_Wed, 03 Dec 2025 15:32:00 +0000_) — [Link](https://kffhealthnews.org/news/article/aunque-se-reanuda-snap-nuevas-reglas-laborales-amenazan-el-acceso-al-programa-de-alimentos-por-anos/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
@@ -25,7 +25,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 ## Opportunities & Funding Signals
 
 - [KFF_Health_News] Republicans Left Tribes Out of Their $50B Rural Fund. Now It’s Up to States To Share. — (_Thu, 04 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/native-american-tribes-rural-health-transformation-program/)
-- [KFF_Health_News] Aunque se reanuda SNAP, nuevas reglas laborales amenazan el acceso al programa de alimentos por años — (_Wed, 03 Dec 2025 15:32:00 +0000_) — [Link](https://kffhealthnews.org/news/article/aunque-se-reanuda-snap-nuevas-reglas-laborales-amenazan-el-acceso-al-programa-de-alimentos-por-anos/)
 
 ## Legislation & Regulations to Watch
 
@@ -39,4 +38,3 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 ## Notes for Louisiana / Deep South (LA, MS, AR, AL)
 
 - [KFF_Health_News] Mientras científicos estudian la propagación del sarampión en el país, Kennedy pone en riesgo avances que costaron décadas — (_Fri, 05 Dec 2025 12:59:56 +0000_) — [Link](https://kffhealthnews.org/news/article/mientras-cientificos-estudian-la-propagacion-del-sarampion-en-el-pais-kennedy-pone-en-riesgo-avances-que-costaron-decadas/)
-- [KFF_Health_News] Aunque se reanuda SNAP, nuevas reglas laborales amenazan el acceso al programa de alimentos por años — (_Wed, 03 Dec 2025 15:32:00 +0000_) — [Link](https://kffhealthnews.org/news/article/aunque-se-reanuda-snap-nuevas-reglas-laborales-amenazan-el-acceso-al-programa-de-alimentos-por-anos/)
