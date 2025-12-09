@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2025-12-08
+# Rural Health Policy Digest — 2025-12-09
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Watch: What Do Republicans Really Want on Health Care? — (_Mon, 08 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/watch-republicans-health-care-working-class-issue/)
+- [KFF_Health_News] A North Carolina Hospital Was Slated To Open in 2025. Mired in Bureaucracy, It’s Still a Dirt Field. — (_Mon, 08 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/certificate-of-need-laws-north-carolina-hospital-bureaucracy-dirt-field/)
 - [KFF_Health_News] Journalists Dig Into Maine HIV Outbreak and Ever-Closer End to Enhanced ACA Subsidies — (_Sat, 06 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-december-6-2025-maine-hiv-outbreak-homelessness-trump-aca-subsidies/)
 - [KFF_Health_News] In RFK Jr.’s Upside-Down World of Vaccines, Panel Votes To End Hepatitis B Shot at Birth — (_Fri, 05 Dec 2025 20:31:39 +0000_) — [Link](https://kffhealthnews.org/news/article/cdc-acip-hepatitis-b-birth-dose-reversal-recommendation-rfk/)
 - [KFF_Health_News] Feds Promised ‘Radical Transparency’ but Withhold $50B Rural Fund Details — (_Fri, 05 Dec 2025 19:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-rural-health-transformation-program-fund-transparency/)
@@ -14,8 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Health Savings Accounts, Backed by GOP, Cover Fancy Saunas but Not Insurance Premiums — (_Fri, 05 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/health-savings-accounts-hsa-insurance-premiums-republicans-obamacare/)
 - [KFF_Health_News] What the Health? From KFF Health News: The GOP Still Can’t Agree on a Health Plan — (_Thu, 04 Dec 2025 20:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-425-republicans-obamacare-aca-subsidies-cdc-fda-vaccines-december-4-2025/)
 - [KFF_Health_News] Tracking Applications for Rural Health Transformation Funds — (_Thu, 04 Dec 2025 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/tracking-applications-for-rural-health-transformation-funds/)
-- [KFF_Health_News] Under Kennedy, America’s Health Department Is in the Business of Promoting Kennedy — (_Thu, 04 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/robert-kennedy-rfk-maha-hhs-cdc-social-media-vaccines-tobacco/)
-- [KFF_Health_News] Republicans Left Tribes Out of Their $50B Rural Fund. Now It’s Up to States To Share. — (_Thu, 04 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/native-american-tribes-rural-health-transformation-program/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
@@ -24,10 +24,11 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Opportunities & Funding Signals
 
-- [KFF_Health_News] Republicans Left Tribes Out of Their $50B Rural Fund. Now It’s Up to States To Share. — (_Thu, 04 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/native-american-tribes-rural-health-transformation-program/)
+- [KFF_Health_News] A North Carolina Hospital Was Slated To Open in 2025. Mired in Bureaucracy, It’s Still a Dirt Field. — (_Mon, 08 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/certificate-of-need-laws-north-carolina-hospital-bureaucracy-dirt-field/)
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] A North Carolina Hospital Was Slated To Open in 2025. Mired in Bureaucracy, It’s Still a Dirt Field. — (_Mon, 08 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/certificate-of-need-laws-north-carolina-hospital-bureaucracy-dirt-field/)
 - [KFF_Health_News] What the Health? From KFF Health News: The GOP Still Can’t Agree on a Health Plan — (_Thu, 04 Dec 2025 20:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-425-republicans-obamacare-aca-subsidies-cdc-fda-vaccines-december-4-2025/)
 
 ## Signals for Rural GME and Training Pipelines
