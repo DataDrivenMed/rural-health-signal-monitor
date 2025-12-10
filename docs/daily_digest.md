@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2025-12-09
+# Rural Health Policy Digest — 2025-12-10
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,21 +6,21 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] How Delays and Bankruptcy Let a Nursing Home Chain Avoid Paying Settlements for Injuries and Deaths — (_Tue, 09 Dec 2025 18:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/nursing-homes-genesis-bankruptcy-liability-settlements-dallas-new-mexico/)
+- [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 09 Dec 2025 15:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2025/)
+- [KFF_Health_News] Rural Health Providers Could Be Collateral Damage From $100K Trump Visa Fee — (_Tue, 09 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/h1b-visa-fee-rural-hospitals-foreign-worker-shortages-north-dakota/)
+- [KFF_Health_News] Out-of-Pocket Pain From High-Deductible Plans Means Skimping on Care — (_Tue, 09 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/high-deductible-plans-out-of-pocket-diabetes-care/)
+- [KFF_Health_News] Trump’s Idea for Health Accounts Has Been Tried. Millions of Patients Have Ended Up in Debt. — (_Tue, 09 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/trump-health-accounts-hsa-cash-patient-debt-high-deductible-insurance/)
 - [KFF_Health_News] Watch: What Do Republicans Really Want on Health Care? — (_Mon, 08 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/watch-republicans-health-care-working-class-issue/)
 - [KFF_Health_News] A North Carolina Hospital Was Slated To Open in 2025. Mired in Bureaucracy, It’s Still a Dirt Field. — (_Mon, 08 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/certificate-of-need-laws-north-carolina-hospital-bureaucracy-dirt-field/)
 - [KFF_Health_News] Journalists Dig Into Maine HIV Outbreak and Ever-Closer End to Enhanced ACA Subsidies — (_Sat, 06 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-december-6-2025-maine-hiv-outbreak-homelessness-trump-aca-subsidies/)
 - [KFF_Health_News] In RFK Jr.’s Upside-Down World of Vaccines, Panel Votes To End Hepatitis B Shot at Birth — (_Fri, 05 Dec 2025 20:31:39 +0000_) — [Link](https://kffhealthnews.org/news/article/cdc-acip-hepatitis-b-birth-dose-reversal-recommendation-rfk/)
 - [KFF_Health_News] Feds Promised ‘Radical Transparency’ but Withhold $50B Rural Fund Details — (_Fri, 05 Dec 2025 19:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-rural-health-transformation-program-fund-transparency/)
-- [KFF_Health_News] Mientras científicos estudian la propagación del sarampión en el país, Kennedy pone en riesgo avances que costaron décadas — (_Fri, 05 Dec 2025 12:59:56 +0000_) — [Link](https://kffhealthnews.org/news/article/mientras-cientificos-estudian-la-propagacion-del-sarampion-en-el-pais-kennedy-pone-en-riesgo-avances-que-costaron-decadas/)
-- [KFF_Health_News] While Scientists Race To Study Spread of Measles in US, Kennedy Unravels Hard-Won Gains — (_Fri, 05 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/measles-virus-outbreak-spread-genomic-analysis-elimination-status-cdc-rfk-us/)
-- [KFF_Health_News] Health Savings Accounts, Backed by GOP, Cover Fancy Saunas but Not Insurance Premiums — (_Fri, 05 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/health-savings-accounts-hsa-insurance-premiums-republicans-obamacare/)
-- [KFF_Health_News] What the Health? From KFF Health News: The GOP Still Can’t Agree on a Health Plan — (_Thu, 04 Dec 2025 20:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-425-republicans-obamacare-aca-subsidies-cdc-fda-vaccines-december-4-2025/)
-- [KFF_Health_News] Tracking Applications for Rural Health Transformation Funds — (_Thu, 04 Dec 2025 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/tracking-applications-for-rural-health-transformation-funds/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
-- No obvious risk-related headlines detected in today's feeds.
-
+- [KFF_Health_News] How Delays and Bankruptcy Let a Nursing Home Chain Avoid Paying Settlements for Injuries and Deaths — (_Tue, 09 Dec 2025 18:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/nursing-homes-genesis-bankruptcy-liability-settlements-dallas-new-mexico/)
+- [KFF_Health_News] Rural Health Providers Could Be Collateral Damage From $100K Trump Visa Fee — (_Tue, 09 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/h1b-visa-fee-rural-hospitals-foreign-worker-shortages-north-dakota/)
 
 ## Opportunities & Funding Signals
 
@@ -29,7 +29,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 ## Legislation & Regulations to Watch
 
 - [KFF_Health_News] A North Carolina Hospital Was Slated To Open in 2025. Mired in Bureaucracy, It’s Still a Dirt Field. — (_Mon, 08 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/certificate-of-need-laws-north-carolina-hospital-bureaucracy-dirt-field/)
-- [KFF_Health_News] What the Health? From KFF Health News: The GOP Still Can’t Agree on a Health Plan — (_Thu, 04 Dec 2025 20:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-425-republicans-obamacare-aca-subsidies-cdc-fda-vaccines-december-4-2025/)
 
 ## Signals for Rural GME and Training Pipelines
 
@@ -38,4 +37,5 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Notes for Louisiana / Deep South (LA, MS, AR, AL)
 
-- [KFF_Health_News] Mientras científicos estudian la propagación del sarampión en el país, Kennedy pone en riesgo avances que costaron décadas — (_Fri, 05 Dec 2025 12:59:56 +0000_) — [Link](https://kffhealthnews.org/news/article/mientras-cientificos-estudian-la-propagacion-del-sarampion-en-el-pais-kennedy-pone-en-riesgo-avances-que-costaron-decadas/)
+- No items explicitly mentioning Louisiana, Mississippi, Arkansas, or Alabama.
+
