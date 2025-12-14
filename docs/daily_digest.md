@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2025-12-13
+# Rural Health Policy Digest — 2025-12-14
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,7 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Journalists Talk Increasing Insurance Costs, From Marketplace Plans to Employer Coverage — (_Sat, 13 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-december-13-2025-aca-obamacare-enhanced-subsidies-premium-costs/)
 - [KFF_Health_News] Rural Health Providers Hit by $100K Trump Visa Fee — (_Fri, 12 Dec 2025 19:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-rural-health-h1b-visa-fee/)
 - [KFF_Health_News] Seguros con deducibles altos ponen en aprietos a pacientes con afecciones crónicas — (_Fri, 12 Dec 2025 18:23:58 +0000_) — [Link](https://kffhealthnews.org/news/article/seguros-con-deducibles-altos-ponen-en-aprietos-a-pacientes-con-afecciones-cronicas/)
 - [KFF_Health_News] Sticker Shock: Obamacare Customers Confront Premium Spikes as Congress Dithers — (_Fri, 12 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/obamacare-aca-congress-price-increases-subsidies-open-enrollment/)
@@ -15,7 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Health Care Consolidation and Rising Costs Happen, but Obamacare Is Not the Key Culprit — (_Thu, 11 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/health-industry-consolidation-mergers-hospitals-doctors-rising-costs-obamacare-not-key-culprit/)
 - [KFF_Health_News] Trump Rules Force Cancer Registries To ‘Erase’ Trans Patients From Public Health Data — (_Thu, 11 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-wamu-health-hub-cancer-registries-sex-assigned-at-birth-transgender-data-rule/)
 - [KFF_Health_News] This HIV Expert Refused To Censor Data, Then Quit the CDC — (_Wed, 10 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/hiv-expert-john-weiser-refused-to-censor-data-quit-cdc-transgender-interview/)
-- [KFF_Health_News] Plan-Switching, Sign-Up Impersonations: Obamacare Enrollment Fraud Persists — (_Wed, 10 Dec 2025 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/obamacare-aca-fraud-gao-enrollment-marketplace-brokers/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
