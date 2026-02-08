@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-02-07
+# Rural Health Policy Digest — 2026-02-08
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,7 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Journalists Describe Drivers of High Health Costs and Spell Out the Science of Protein — (_Sat, 07 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-february-7-2026-aca-obamacare-premium-costs-subsidies-protein-intake/)
 - [KFF_Health_News] Newsom Tries To Thread Needle on Immigrant Health as Ambitions Turn National — (_Fri, 06 Feb 2026 19:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-gavin-newsom-california-immigrant-health-policy-presidential-bid/)
 - [KFF_Health_News] Con ICE usando datos de Medicaid, hospitales y estados están en medio de una encrucijada: informar o no a sus pacientes inmigrantes — (_Fri, 06 Feb 2026 14:45:33 +0000_) — [Link](https://kffhealthnews.org/news/article/con-ice-usando-datos-de-medicaid-hospitales-y-estados-estan-en-medio-de-una-encrucijada-informar-o-no-a-sus-pacientes-inmigrantes/)
 - [KFF_Health_News] With ICE Using Medicaid Data, Hospitals and States Are in a Bind Over Warning Immigrant Patients — (_Fri, 06 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/ice-immigrants-medicaid-data-sharing-hospitals-states-deportation/)
@@ -15,7 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Newsom Walks Thin Line on Immigrant Health as He Eyes Presidential Bid — (_Thu, 05 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/california-governor-gavin-newsom-immigrant-health-care-medicaid-president/)
 - [KFF_Health_News] Poison at Play: Unsafe Levels of Lead Found in Half of New Orleans Playgrounds — (_Thu, 05 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/new-orleans-lead-contamination-parks-playgrounds-testing/)
 - [KFF_Health_News] Listen: Many Tents Are Gone, but Washington’s Homeless — And Their Health Problems — Aren’t — (_Wed, 04 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/homeless-crackdown-washington-dc-wamu-health-hub-winter-listen/)
-- [KFF_Health_News] When the Doctor Needs a Checkup — (_Wed, 04 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doctor-cognitive-decline-assessment-ageism/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
