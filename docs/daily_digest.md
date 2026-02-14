@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-02-13
+# Rural Health Policy Digest — 2026-02-14
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,29 +6,33 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] ACA Subsidies Expired. Open Enrollment Ended. But It Will Still Take Awhile To Register the Results. — (_Fri, 13 Feb 2026 19:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-obamacare-enrollment-affordable-care-act-enhanced-subsidies-fallout/)
+- [KFF_Health_News] Health Care Heartaches: Your Winning Health Policy Valentines — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/health-care-heartaches-your-winning-health-policy-valentines/)
+- [KFF_Health_News] Clinics Sour on CMS After Agency Scraps 10-Year Primary Care Program Only Months In — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/cms-mcp-lead-primary-care-model-canceled-rural-health-north-carolina/)
+- [KFF_Health_News] RFK Jr. Made Promises in Order To Become Health Secretary. He’s Broken Many of Them. — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/rfk-jr-robert-kennedy-vaccines-broken-promises-senators-cassidy/)
+- [KFF_Health_News] Trump Team’s Planned ACA Rule Offers Its Answer to Rising Premium Costs: Catastrophic Coverage — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/aca-trump-proposal-catastrophic-coverage-premiums-care-networks/)
 - [KFF_Health_News] What the Health? From KFF Health News: New Flu Vax? FDA Says No Thanks — (_Thu, 12 Feb 2026 19:50:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-433-fda-flu-vaccine-rejected-moderna-abortion-pill-february-12-2026/)
 - [KFF_Health_News] Alabama’s ‘Pretty Cool’ Plan for Robots in Maternity Care Sparks Debate — (_Thu, 12 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/alabama-robot-ultrasounds-maternity-care-rural-health-oz/)
 - [KFF_Health_News] Louisville Found PFAS in Drinking Water. The Trump Administration Wouldn’t Require Any Action. — (_Thu, 12 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/louisville-forever-chemicals-pfas-drinking-water-ohio-river-chemours-trump-epa/)
 - [KFF_Health_News] End of Enhanced Obamacare Subsidies Puts Tribal Health Lifeline at Risk — (_Wed, 11 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/tribal-health-enhanced-obamacare-subsidies-funding-shortages/)
 - [KFF_Health_News] New Medicaid Work Rules Likely To Hit Middle-Aged Adults Hard — (_Wed, 11 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-work-requirements-middle-aged-adults-women/)
-- [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 10 Feb 2026 15:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2026/)
-- [KFF_Health_News] Obamacare: el impacto de los costos en las inscripciones no se conocerá hasta dentro de varios meses — (_Tue, 10 Feb 2026 14:09:14 +0000_) — [Link](https://kffhealthnews.org/news/article/obamacare-el-impacto-de-los-costos-en-las-inscripciones-no-se-conocera-hasta-dentro-de-varios-meses/)
-- [KFF_Health_News] Trabajadores de salud pública renuncian antes de ir a Guantánamo — (_Tue, 10 Feb 2026 12:57:49 +0000_) — [Link](https://kffhealthnews.org/news/article/trabajadores-de-salud-publica-renuncian-antes-de-ir-a-guantanamo/)
-- [KFF_Health_News] La consulta con tu próximo médico de atención primaria podría ser solo virtual y agendada a través de IA — (_Tue, 10 Feb 2026 11:39:25 +0000_) — [Link](https://kffhealthnews.org/news/article/la-consulta-con-tu-proximo-medico-de-atencion-primaria-podria-ser-solo-virtual-y-agendada-a-traves-de-ia/)
-- [KFF_Health_News] Obamacare Sign-Ups Drop, but the Extent Won’t Be Clear for Months — (_Tue, 10 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/affordable-care-act-aca-obamacare-sign-ups-subsidies-higher-premiums/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
+- [KFF_Health_News] RFK Jr. Made Promises in Order To Become Health Secretary. He’s Broken Many of Them. — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/rfk-jr-robert-kennedy-vaccines-broken-promises-senators-cassidy/)
 - [KFF_Health_News] Alabama’s ‘Pretty Cool’ Plan for Robots in Maternity Care Sparks Debate — (_Thu, 12 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/alabama-robot-ultrasounds-maternity-care-rural-health-oz/)
 - [KFF_Health_News] End of Enhanced Obamacare Subsidies Puts Tribal Health Lifeline at Risk — (_Wed, 11 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/tribal-health-enhanced-obamacare-subsidies-funding-shortages/)
 
 ## Opportunities & Funding Signals
 
+- [KFF_Health_News] Clinics Sour on CMS After Agency Scraps 10-Year Primary Care Program Only Months In — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/cms-mcp-lead-primary-care-model-canceled-rural-health-north-carolina/)
+- [KFF_Health_News] RFK Jr. Made Promises in Order To Become Health Secretary. He’s Broken Many of Them. — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/rfk-jr-robert-kennedy-vaccines-broken-promises-senators-cassidy/)
 - [KFF_Health_News] End of Enhanced Obamacare Subsidies Puts Tribal Health Lifeline at Risk — (_Wed, 11 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/tribal-health-enhanced-obamacare-subsidies-funding-shortages/)
-- [KFF_Health_News] Trabajadores de salud pública renuncian antes de ir a Guantánamo — (_Tue, 10 Feb 2026 12:57:49 +0000_) — [Link](https://kffhealthnews.org/news/article/trabajadores-de-salud-publica-renuncian-antes-de-ir-a-guantanamo/)
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] Clinics Sour on CMS After Agency Scraps 10-Year Primary Care Program Only Months In — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/cms-mcp-lead-primary-care-model-canceled-rural-health-north-carolina/)
+- [KFF_Health_News] Trump Team’s Planned ACA Rule Offers Its Answer to Rising Premium Costs: Catastrophic Coverage — (_Fri, 13 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/aca-trump-proposal-catastrophic-coverage-premiums-care-networks/)
 - [KFF_Health_News] What the Health? From KFF Health News: New Flu Vax? FDA Says No Thanks — (_Thu, 12 Feb 2026 19:50:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-433-fda-flu-vaccine-rejected-moderna-abortion-pill-february-12-2026/)
 - [KFF_Health_News] New Medicaid Work Rules Likely To Hit Middle-Aged Adults Hard — (_Wed, 11 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-work-requirements-middle-aged-adults-women/)
 
@@ -40,5 +44,3 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 ## Notes for Louisiana / Deep South (LA, MS, AR, AL)
 
 - [KFF_Health_News] Alabama’s ‘Pretty Cool’ Plan for Robots in Maternity Care Sparks Debate — (_Thu, 12 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/alabama-robot-ultrasounds-maternity-care-rural-health-oz/)
-- [KFF_Health_News] Obamacare: el impacto de los costos en las inscripciones no se conocerá hasta dentro de varios meses — (_Tue, 10 Feb 2026 14:09:14 +0000_) — [Link](https://kffhealthnews.org/news/article/obamacare-el-impacto-de-los-costos-en-las-inscripciones-no-se-conocera-hasta-dentro-de-varios-meses/)
-- [KFF_Health_News] La consulta con tu próximo médico de atención primaria podría ser solo virtual y agendada a través de IA — (_Tue, 10 Feb 2026 11:39:25 +0000_) — [Link](https://kffhealthnews.org/news/article/la-consulta-con-tu-proximo-medico-de-atencion-primaria-podria-ser-solo-virtual-y-agendada-a-traves-de-ia/)
