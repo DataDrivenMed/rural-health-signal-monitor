@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-02-28
+# Rural Health Policy Digest — 2026-03-01
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,7 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] ICE, ALS, Addiction Medicine, and Robotic Ultrasounds: Journalists Sound Off on All That and More — (_Sat, 28 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-february-28-2026-ice-hospitalization-custody-als-substance-use-addiction/)
 - [KFF_Health_News] A Canadian Hospital Scoops Up Nurses Who No Longer Feel Safe in Trump’s America — (_Fri, 27 Feb 2026 19:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-american-nurses-move-to-canada/)
 - [KFF_Health_News] To Avoid Care Disruptions, Know When the Clock Runs Out on Your Prior Authorization — (_Fri, 27 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/health-care-helpline-prior-authorization-insurance-companies-plans-drugs-pbms-tips/)
 - [KFF_Health_News] He Needs an Expensive Drug. A Copay Card Helped — Until It Didn’t. — (_Fri, 27 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/expensive-drug-copay-card-discount-bill-of-the-month-february-2026/)
@@ -15,7 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] ‘Kind of Morbid’: Health Premiums Threaten Their Nest Egg. A Terminal Diagnosis May Spare It. — (_Thu, 26 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/insurance-premium-payments-terminal-diagnosis-aca-subsidies-covered-california/)
 - [KFF_Health_News] Democrats Decry Meager Medical Care for Detainees in Funding Fight — (_Wed, 25 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/detainees-medical-care-ice-detention-dhs-funding-fight/)
 - [KFF_Health_News] En batalla por fondos, demócratas denuncian falta de atención médica para detenidos por el ICE — (_Wed, 25 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/en-batalla-por-fondos-democratas-denuncian-falta-de-atencion-medica-para-detenidos-por-el-ice/)
-- [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 24 Feb 2026 15:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2026/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
