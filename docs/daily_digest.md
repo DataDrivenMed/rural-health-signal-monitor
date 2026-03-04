@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-03-03
+# Rural Health Policy Digest — 2026-03-04
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,16 +6,16 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 03 Mar 2026 15:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2026/)
+- [KFF_Health_News] Hasta los pacientes se sorprenden por los precios que sus aseguradoras están dispuestas a pagar, un costo que al final pagamos todos — (_Tue, 03 Mar 2026 14:11:25 +0000_) — [Link](https://kffhealthnews.org/news/article/hasta-los-pacientes-se-sorprenden-por-los-precios-que-sus-aseguradoras-estan-dispuestas-a-pagar-un-costo-que-al-final-pagamos-todos/)
+- [KFF_Health_News] Even Patients Are Shocked by the Prices Their Insurers Will Pay — And It Costs All of Us — (_Tue, 03 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/insurers-pay-high-prices-premiums-coinsurance-cost-control-inflation-patients/)
+- [KFF_Health_News] Readers Lean On Congress To Solve Crises in Research and Rehab — (_Tue, 03 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/reader-letters-congress-action-research-long-term-care-hospitals-march-2026/)
+- [KFF_Health_News] Federal Aid for Lead Cleanup Is Receding. That’s a Problem for Cash-Strapped Cities. — (_Tue, 03 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/lead-pipes-soil-cleanup-new-orleans-benton-harbor-michigan-indianapolis-rhode-island/)
 - [KFF_Health_News] Families Defend Disability Services Amid Medicaid Cuts — (_Mon, 02 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-cuts-disabled-in-home-care-idaho-one-big-beautiful-bill/)
 - [KFF_Health_News] Medicaid Is Paying for More Dental Care. GOP Cuts Threaten To Reverse the Trend. — (_Mon, 02 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-cuts-dental-coverage-republicans-big-beautiful-bill/)
 - [KFF_Health_News] ICE, ALS, Addiction Medicine, and Robotic Ultrasounds: Journalists Sound Off on All That and More — (_Sat, 28 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-february-28-2026-ice-hospitalization-custody-als-substance-use-addiction/)
 - [KFF_Health_News] A Canadian Hospital Scoops Up Nurses Who No Longer Feel Safe in Trump’s America — (_Fri, 27 Feb 2026 19:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-american-nurses-move-to-canada/)
 - [KFF_Health_News] To Avoid Care Disruptions, Know When the Clock Runs Out on Your Prior Authorization — (_Fri, 27 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/health-care-helpline-prior-authorization-insurance-companies-plans-drugs-pbms-tips/)
-- [KFF_Health_News] He Needs an Expensive Drug. A Copay Card Helped — Until It Didn’t. — (_Fri, 27 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/expensive-drug-copay-card-discount-bill-of-the-month-february-2026/)
-- [KFF_Health_News] What the Health? From KFF Health News: What About the State of Health? — (_Thu, 26 Feb 2026 19:30:24 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-435-trump-sotu-state-of-the-union-casey-means-surgeon-general-february-26-2026/)
-- [KFF_Health_News] Cientos de enfermeros estadounidenses dejan atrás el Estados Unidos de Trump y eligen trabajar en Canadá — (_Thu, 26 Feb 2026 13:39:13 +0000_) — [Link](https://kffhealthnews.org/news/article/cientos-de-enfermeros-estadounidenses-dejan-atras-el-estados-unidos-de-trump-y-eligen-trabajar-en-canada/)
-- [KFF_Health_News] ‘You Aren’t Trapped’: Hundreds of US Nurses Choose Canada Over Trump’s America — (_Thu, 26 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/us-nurses-move-to-canada-trump-policies-care-shortages/)
-- [KFF_Health_News] ‘Kind of Morbid’: Health Premiums Threaten Their Nest Egg. A Terminal Diagnosis May Spare It. — (_Thu, 26 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/insurance-premium-payments-terminal-diagnosis-aca-subsidies-covered-california/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
@@ -26,14 +26,13 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 - [KFF_Health_News] Families Defend Disability Services Amid Medicaid Cuts — (_Mon, 02 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-cuts-disabled-in-home-care-idaho-one-big-beautiful-bill/)
 - [KFF_Health_News] Medicaid Is Paying for More Dental Care. GOP Cuts Threaten To Reverse the Trend. — (_Mon, 02 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-cuts-dental-coverage-republicans-big-beautiful-bill/)
-- [KFF_Health_News] ‘You Aren’t Trapped’: Hundreds of US Nurses Choose Canada Over Trump’s America — (_Thu, 26 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/us-nurses-move-to-canada-trump-policies-care-shortages/)
-- [KFF_Health_News] ‘Kind of Morbid’: Health Premiums Threaten Their Nest Egg. A Terminal Diagnosis May Spare It. — (_Thu, 26 Feb 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/insurance-premium-payments-terminal-diagnosis-aca-subsidies-covered-california/)
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] Readers Lean On Congress To Solve Crises in Research and Rehab — (_Tue, 03 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/reader-letters-congress-action-research-long-term-care-hospitals-march-2026/)
+- [KFF_Health_News] Federal Aid for Lead Cleanup Is Receding. That’s a Problem for Cash-Strapped Cities. — (_Tue, 03 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/lead-pipes-soil-cleanup-new-orleans-benton-harbor-michigan-indianapolis-rhode-island/)
 - [KFF_Health_News] Families Defend Disability Services Amid Medicaid Cuts — (_Mon, 02 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-cuts-disabled-in-home-care-idaho-one-big-beautiful-bill/)
 - [KFF_Health_News] Medicaid Is Paying for More Dental Care. GOP Cuts Threaten To Reverse the Trend. — (_Mon, 02 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-cuts-dental-coverage-republicans-big-beautiful-bill/)
-- [KFF_Health_News] What the Health? From KFF Health News: What About the State of Health? — (_Thu, 26 Feb 2026 19:30:24 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-435-trump-sotu-state-of-the-union-casey-means-surgeon-general-february-26-2026/)
 
 ## Signals for Rural GME and Training Pipelines
 
@@ -42,5 +41,4 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Notes for Louisiana / Deep South (LA, MS, AR, AL)
 
-- No items explicitly mentioning Louisiana, Mississippi, Arkansas, or Alabama.
-
+- [KFF_Health_News] Hasta los pacientes se sorprenden por los precios que sus aseguradoras están dispuestas a pagar, un costo que al final pagamos todos — (_Tue, 03 Mar 2026 14:11:25 +0000_) — [Link](https://kffhealthnews.org/news/article/hasta-los-pacientes-se-sorprenden-por-los-precios-que-sus-aseguradoras-estan-dispuestas-a-pagar-un-costo-que-al-final-pagamos-todos/)
