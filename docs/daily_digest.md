@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-03-12
+# Rural Health Policy Digest — 2026-03-13
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,22 +6,23 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Families Scramble To Pay Five-Figure Bills as Clock Ticks on Promised Preauthorization Reforms — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/prior-authorization-insurer-pledge-awaiting-reforms-patients-families-bills/)
+- [KFF_Health_News] Medicare Advantage ‘Dark Money’ Group Attempts To Win Higher Payments for Insurance Companies — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicare-advantage-rates-public-comments-industry-ads-facebook-dark-money/)
+- [KFF_Health_News] Doctors Warn of a Deadly Complication From Measles Outbreaks — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/measles-outbreaks-long-term-complications-sspe-subacute-sclerosing-panencephalitis/)
+- [KFF_Health_News] What the Health? From KFF Health News: RFK Jr.’s Very Bad Week — (_Thu, 12 Mar 2026 18:35:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-437-rfk-jr-kennedy-casey-means-prasad-march-12-2026/)
 - [KFF_Health_News] Republicans Fret Over RFK Jr.’s Anti-Vaccine Policies While MAHA Moms Stew — (_Thu, 12 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/maha-make-america-healthy-again-vaccines-food-glyphosate-midterm-risk-opportunity/)
 - [KFF_Health_News] As Lung Disease Threatens Workers, Lawmakers Seek Protections for Countertop Manufacturers — (_Thu, 12 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/quartz-countertops-silicosis-workers-lung-disease-crystalline-silica/)
 - [KFF_Health_News] Cosmetic Surgery Investigation Prompts Warnings for Patients, and a Push for Tighter Safety Standards — (_Wed, 11 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/body-shops-cosmetic-surgery-injuries-deaths-investigation/)
 - [KFF_Health_News] Primary Care Is in Trouble. So Doctors Band Together To Boost Their Market Power. — (_Wed, 11 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/primary-care-independent-physicians-boost-market-power/)
 - [KFF_Health_News] Bancos, primera línea de batalla contra los fraudes financieros a adultos mayores — (_Tue, 10 Mar 2026 15:45:11 +0000_) — [Link](https://kffhealthnews.org/news/article/bancos-primera-linea-de-batalla-contra-los-fraudes-financieros-a-adultos-mayores/)
 - [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 10 Mar 2026 14:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2026/)
-- [KFF_Health_News] Más niños llegan a salas de emergencias con dolor de muelas. Los recortes de Trump y la lucha anti flúor de RFK Jr. no ayudan — (_Tue, 10 Mar 2026 13:39:30 +0000_) — [Link](https://kffhealthnews.org/news/article/mas-ninos-llegan-a-salas-de-emergencias-con-dolor-de-muelas-los-recortes-de-trump-y-la-lucha-anti-fluor-de-rfk-jr-no-ayudan/)
-- [KFF_Health_News] More Kids Are in ERs for Tooth Pain. Trump Cuts and RFK Jr.’s Anti-Fluoride Fight Aren’t Helping. — (_Tue, 10 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/dental-care-emergency-rooms-special-needs-medicaid-shortage-areas/)
-- [KFF_Health_News] Banks Are Becoming Bulwarks Against Scams for Vulnerable Seniors — (_Tue, 10 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/banks-protect-seniors-financial-scams-dementia-cognitive-decline-new-old-age/)
-- [KFF_Health_News] Newsom se enfrenta a Trump y RFK Jr. por la salud pública — (_Mon, 09 Mar 2026 13:57:38 +0000_) — [Link](https://kffhealthnews.org/news/article/newsom-se-enfrenta-a-trump-y-rfk-jr-por-la-salud-publica/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
+- [KFF_Health_News] Medicare Advantage ‘Dark Money’ Group Attempts To Win Higher Payments for Insurance Companies — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicare-advantage-rates-public-comments-industry-ads-facebook-dark-money/)
+- [KFF_Health_News] Doctors Warn of a Deadly Complication From Measles Outbreaks — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/measles-outbreaks-long-term-complications-sspe-subacute-sclerosing-panencephalitis/)
 - [KFF_Health_News] Republicans Fret Over RFK Jr.’s Anti-Vaccine Policies While MAHA Moms Stew — (_Thu, 12 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/maha-make-america-healthy-again-vaccines-food-glyphosate-midterm-risk-opportunity/)
 - [KFF_Health_News] As Lung Disease Threatens Workers, Lawmakers Seek Protections for Countertop Manufacturers — (_Thu, 12 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/quartz-countertops-silicosis-workers-lung-disease-crystalline-silica/)
-- [KFF_Health_News] More Kids Are in ERs for Tooth Pain. Trump Cuts and RFK Jr.’s Anti-Fluoride Fight Aren’t Helping. — (_Tue, 10 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/dental-care-emergency-rooms-special-needs-medicaid-shortage-areas/)
 
 ## Opportunities & Funding Signals
 
@@ -31,8 +32,9 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] Families Scramble To Pay Five-Figure Bills as Clock Ticks on Promised Preauthorization Reforms — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/prior-authorization-insurer-pledge-awaiting-reforms-patients-families-bills/)
+- [KFF_Health_News] Medicare Advantage ‘Dark Money’ Group Attempts To Win Higher Payments for Insurance Companies — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicare-advantage-rates-public-comments-industry-ads-facebook-dark-money/)
 - [KFF_Health_News] As Lung Disease Threatens Workers, Lawmakers Seek Protections for Countertop Manufacturers — (_Thu, 12 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/quartz-countertops-silicosis-workers-lung-disease-crystalline-silica/)
-- [KFF_Health_News] Banks Are Becoming Bulwarks Against Scams for Vulnerable Seniors — (_Tue, 10 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/banks-protect-seniors-financial-scams-dementia-cognitive-decline-new-old-age/)
 
 ## Signals for Rural GME and Training Pipelines
 
@@ -41,5 +43,5 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Notes for Louisiana / Deep South (LA, MS, AR, AL)
 
-- [KFF_Health_News] Más niños llegan a salas de emergencias con dolor de muelas. Los recortes de Trump y la lucha anti flúor de RFK Jr. no ayudan — (_Tue, 10 Mar 2026 13:39:30 +0000_) — [Link](https://kffhealthnews.org/news/article/mas-ninos-llegan-a-salas-de-emergencias-con-dolor-de-muelas-los-recortes-de-trump-y-la-lucha-anti-fluor-de-rfk-jr-no-ayudan/)
-- [KFF_Health_News] Newsom se enfrenta a Trump y RFK Jr. por la salud pública — (_Mon, 09 Mar 2026 13:57:38 +0000_) — [Link](https://kffhealthnews.org/news/article/newsom-se-enfrenta-a-trump-y-rfk-jr-por-la-salud-publica/)
+- No items explicitly mentioning Louisiana, Mississippi, Arkansas, or Alabama.
+
