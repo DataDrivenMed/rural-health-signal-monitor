@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-03-17
+# Rural Health Policy Digest — 2026-03-18
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,33 +6,31 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Evidence Shows ACA’s Mandated Benefits Alone Don’t Drive Up Costs. The Debate Continues. — (_Wed, 18 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/obamacare-essential-health-benefits-premium-costs-debate/)
+- [KFF_Health_News] Maker of Device To Treat Addiction Withdrawal Seeks Counties’ Opioid Settlement Cash — (_Wed, 18 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/payback-opioid-settlements-net-recovery-device-opioid-withdrawal-spending-hype/)
+- [KFF_Health_News] Psiquiatras podrían adoptar biomarcadores en el diagnóstico de la salud mental — (_Tue, 17 Mar 2026 14:12:18 +0000_) — [Link](https://kffhealthnews.org/news/article/psiquiatras-podrian-adoptar-biomarcadores-en-el-diagnostico-de-la-salud-mental/)
+- [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 17 Mar 2026 14:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2026/)
 - [KFF_Health_News] Psychiatrists’ Use of Biomarkers Could Open a New Window Into Mental Health Diagnoses — (_Tue, 17 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/psychiatry-biomarkers-mental-health-diagnoses-dsm/)
 - [KFF_Health_News] Lost in Transmission: Changes in Organ Donor Status Can Fall Through Cracks in the System — (_Tue, 17 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/organ-donor-state-registries-consent-authorization-optn-opo-raven-kinser-virginia/)
 - [KFF_Health_News] Birth Control Skepticism, Teen Fertility Education Center Stage at Trump’s Women’s Health Summit — (_Mon, 16 Mar 2026 20:07:17 +0000_) — [Link](https://kffhealthnews.org/news/article/hhs-women-health-conference-birth-control-teen-fertility-trump-rfk-maha/)
 - [KFF_Health_News] Ante recortes estatales y federales, clínicas de la red de seguridad en Los Ángeles impulsan un nuevo impuesto — (_Mon, 16 Mar 2026 16:33:55 +0000_) — [Link](https://kffhealthnews.org/news/article/ante-recortes-estatales-y-federales-clinicas-de-la-red-de-seguridad-en-los-angeles-impulsan-un-nuevo-impuesto/)
+- [KFF_Health_News] Doctores alertan sobre una complicación mortal asociada a los brotes de sarampión — (_Mon, 16 Mar 2026 09:46:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doctores-alertan-sobre-una-complicacion-mortal-asociada-a-los-brotes-de-sarampion/)
 - [KFF_Health_News] Is It Worth Your Time and Money To Set Up an HSA? — (_Mon, 16 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/healthq-hsa-health-savings-accounts-insurance-high-deductible-plans/)
-- [KFF_Health_News] In Switching to Original Medicare, Beware of Medigap Plan Refusals — (_Mon, 16 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicare-open-enrollment-pitfalls-switching-from-advantage-original-medigap/)
-- [KFF_Health_News] Reckoning With State and Federal Cuts, Los Angeles Safety-Net Clinics Push for a New Tax — (_Mon, 16 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/federal-cuts-state-tax-increases-budget-shortfalls-health-clinics-los-angeles-california/)
-- [KFF_Health_News] Journalists Talk Medicaid Work Mandate in Georgia and Wage Garnishment Bill in Colorado — (_Sat, 14 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-march-14-2026-georgia-medicaid-work-requirement-colorado-wage-garnishment/)
-- [KFF_Health_News] ‘Dark Money’ Group Angles for Higher Medicare Advantage Payments — (_Fri, 13 Mar 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-medicare-advantage-payments-dark-money/)
-- [KFF_Health_News] Families Scramble To Pay Five-Figure Bills as Clock Ticks on Promised Preauthorization Reforms — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/prior-authorization-insurer-pledge-awaiting-reforms-patients-families-bills/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
+- [KFF_Health_News] Maker of Device To Treat Addiction Withdrawal Seeks Counties’ Opioid Settlement Cash — (_Wed, 18 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/payback-opioid-settlements-net-recovery-device-opioid-withdrawal-spending-hype/)
 - [KFF_Health_News] Birth Control Skepticism, Teen Fertility Education Center Stage at Trump’s Women’s Health Summit — (_Mon, 16 Mar 2026 20:07:17 +0000_) — [Link](https://kffhealthnews.org/news/article/hhs-women-health-conference-birth-control-teen-fertility-trump-rfk-maha/)
-- [KFF_Health_News] Reckoning With State and Federal Cuts, Los Angeles Safety-Net Clinics Push for a New Tax — (_Mon, 16 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/federal-cuts-state-tax-increases-budget-shortfalls-health-clinics-los-angeles-california/)
 
 ## Opportunities & Funding Signals
 
-- [KFF_Health_News] Reckoning With State and Federal Cuts, Los Angeles Safety-Net Clinics Push for a New Tax — (_Mon, 16 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/federal-cuts-state-tax-increases-budget-shortfalls-health-clinics-los-angeles-california/)
+- No clear grant/funding/payment opportunities detected today.
+
 
 ## Legislation & Regulations to Watch
 
-- [KFF_Health_News] In Switching to Original Medicare, Beware of Medigap Plan Refusals — (_Mon, 16 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicare-open-enrollment-pitfalls-switching-from-advantage-original-medigap/)
-- [KFF_Health_News] Reckoning With State and Federal Cuts, Los Angeles Safety-Net Clinics Push for a New Tax — (_Mon, 16 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/federal-cuts-state-tax-increases-budget-shortfalls-health-clinics-los-angeles-california/)
-- [KFF_Health_News] Journalists Talk Medicaid Work Mandate in Georgia and Wage Garnishment Bill in Colorado — (_Sat, 14 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-march-14-2026-georgia-medicaid-work-requirement-colorado-wage-garnishment/)
-- [KFF_Health_News] ‘Dark Money’ Group Angles for Higher Medicare Advantage Payments — (_Fri, 13 Mar 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-medicare-advantage-payments-dark-money/)
-- [KFF_Health_News] Families Scramble To Pay Five-Figure Bills as Clock Ticks on Promised Preauthorization Reforms — (_Fri, 13 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/prior-authorization-insurer-pledge-awaiting-reforms-patients-families-bills/)
+- No major legislative or regulatory items detected by keyword scan.
+
 
 ## Signals for Rural GME and Training Pipelines
 
@@ -40,4 +38,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Notes for Louisiana / Deep South (LA, MS, AR, AL)
 
+- [KFF_Health_News] Psiquiatras podrían adoptar biomarcadores en el diagnóstico de la salud mental — (_Tue, 17 Mar 2026 14:12:18 +0000_) — [Link](https://kffhealthnews.org/news/article/psiquiatras-podrian-adoptar-biomarcadores-en-el-diagnostico-de-la-salud-mental/)
 - [KFF_Health_News] Ante recortes estatales y federales, clínicas de la red de seguridad en Los Ángeles impulsan un nuevo impuesto — (_Mon, 16 Mar 2026 16:33:55 +0000_) — [Link](https://kffhealthnews.org/news/article/ante-recortes-estatales-y-federales-clinicas-de-la-red-de-seguridad-en-los-angeles-impulsan-un-nuevo-impuesto/)
+- [KFF_Health_News] Doctores alertan sobre una complicación mortal asociada a los brotes de sarampión — (_Mon, 16 Mar 2026 09:46:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doctores-alertan-sobre-una-complicacion-mortal-asociada-a-los-brotes-de-sarampion/)
