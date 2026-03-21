@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-03-20
+# Rural Health Policy Digest — 2026-03-21
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Journalists Shine Light on Out-of-Reach Insurance Prices, AI’s Role in Claims Disputes, and Susie Wiles — (_Sat, 21 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-march-21-2026-insurance-prices-measles-spread-ai-vaccine-ruling-susie-wiles/)
+- [KFF_Health_News] In the Affordability Alphabet Soup of the ACA and EHBs, a Link to Higher Premiums Isn’t Clear-Cut — (_Fri, 20 Mar 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-obamacare-plans-premiums-essential-health-benefits/)
 - [KFF_Health_News] Oz Escalates Medicaid Fraud Claims Against States After Focus on Minnesota — (_Fri, 20 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/medicaid-fraud-dr-oz-minnesota-california-maine-new-york-florida/)
 - [KFF_Health_News] ‘How Low Can You Go?’ The Shifting Guidelines for Blood Pressure Control — (_Fri, 20 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/high-blood-pressure-hypertension-dementia-risks-new-old-age/)
 - [KFF_Health_News] Listen: Trump’s NIH ‘Reset’ Is Driving Away Scientists — (_Fri, 20 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/wamu-health-hub-listen-trump-nih-worker-exodus-scientists-public-health/)
@@ -14,13 +16,11 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Lawmakers Seek To Protect Crisis Pregnancy Centers as Abortion Clinic Numbers Shrink — (_Thu, 19 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/abortion-bans-clinics-crisis-pregnancy-centers-maternity-care-wyoming/)
 - [KFF_Health_News] Oz Says California’s Not Fighting Health Care Fraud, but Data Shows It’s Part of a Larger Battle — (_Thu, 19 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/hospice-fraud-medicaid-mehmet-oz-cms-california/)
 - [KFF_Health_News] Watch: Affordability Plagues Health Care in Its Shift From Nonprofit to Profit Machine — (_Thu, 19 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/watch-health-care-affordability-drew-altman-interview/)
-- [KFF_Health_News] Evidence Shows ACA’s Mandated Benefits Alone Don’t Drive Up Costs. The Debate Continues. — (_Wed, 18 Mar 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/obamacare-essential-health-benefits-premium-costs-debate/)
-- [KFF_Health_News] Maker of Device To Treat Addiction Withdrawal Seeks Counties’ Opioid Settlement Cash — (_Wed, 18 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/payback-opioid-settlements-net-recovery-device-opioid-withdrawal-spending-hype/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
+- [KFF_Health_News] In the Affordability Alphabet Soup of the ACA and EHBs, a Link to Higher Premiums Isn’t Clear-Cut — (_Fri, 20 Mar 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-obamacare-plans-premiums-essential-health-benefits/)
 - [KFF_Health_News] Lawmakers Seek To Protect Crisis Pregnancy Centers as Abortion Clinic Numbers Shrink — (_Thu, 19 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/abortion-bans-clinics-crisis-pregnancy-centers-maternity-care-wyoming/)
-- [KFF_Health_News] Maker of Device To Treat Addiction Withdrawal Seeks Counties’ Opioid Settlement Cash — (_Wed, 18 Mar 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/payback-opioid-settlements-net-recovery-device-opioid-withdrawal-spending-hype/)
 
 ## Opportunities & Funding Signals
 
