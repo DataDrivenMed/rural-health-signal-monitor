@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-04-06
+# Rural Health Policy Digest — 2026-04-07
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Can I Opt Out of Having My Doctor Take Notes With AI? — (_Tue, 07 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/healthq-ai-scribes-notetaker-doctor-visit-data-privacy/)
+- [KFF_Health_News] This Northern Cheyenne Doula Was About To Start Getting Paid — Then Medicaid Cuts Hit — (_Tue, 07 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doula-care-indigenous-health-medicaid-cuts-montana-tribe/)
 - [KFF_Health_News] Immigrant Seniors Lose Medicare Coverage Despite Paying for It — (_Mon, 06 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/immigrant-seniors-medicare-california-big-beautiful-bill-eligibility-taxes/)
 - [KFF_Health_News] These Women Had Their Breasts Removed To Thwart Cancer. Then Came the Pain. — (_Mon, 06 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/post-mastectomy-pain-syndrome-breast-cancer-surgery-pmps/)
 - [KFF_Health_News] Journalists Capsulize Weight Loss News and ACA Premium Pressures — (_Sat, 04 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-april-4-2026-weight-loss-pills-aca-premiums/)
@@ -14,11 +16,10 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Listen: What the Vaccine Schedule Whiplash Means for Your Kids — (_Fri, 03 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-wamu-health-hub-julie-rovner-explains-acip-vaccine-schedule-court-judge/)
 - [KFF_Health_News] What the Health? From KFF Health News: GOP Mulls More Health Cuts — (_Thu, 02 Apr 2026 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-440-gop-health-cuts-iran-april-2-2026/)
 - [KFF_Health_News] State-Run Insurance Plans for Foster Kids Leave Some of Them Without Doctors — (_Thu, 02 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/foster-children-insurance-specialized-medicaid-healthy-blue-north-carolina/)
-- [KFF_Health_News] US Scientists Sequence 1,000 Genomes From Measles, a Disease Long Eliminated With Vaccines — (_Thu, 02 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/measles-genome-cdc-data-elimination-status-outbreaks-rfk/)
-- [KFF_Health_News] After Man’s Death Following Insurance Denials, West Virginia Tackles Prior Authorization — (_Wed, 01 Apr 2026 16:01:34 +0000_) — [Link](https://kffhealthnews.org/news/article/prior-authorization-insurance-delays-coverage-denials-state-laws-west-virginia/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
+- [KFF_Health_News] This Northern Cheyenne Doula Was About To Start Getting Paid — Then Medicaid Cuts Hit — (_Tue, 07 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doula-care-indigenous-health-medicaid-cuts-montana-tribe/)
 - [KFF_Health_News] What the Health? From KFF Health News: GOP Mulls More Health Cuts — (_Thu, 02 Apr 2026 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-440-gop-health-cuts-iran-april-2-2026/)
 
 ## Opportunities & Funding Signals
@@ -28,11 +29,11 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] This Northern Cheyenne Doula Was About To Start Getting Paid — Then Medicaid Cuts Hit — (_Tue, 07 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doula-care-indigenous-health-medicaid-cuts-montana-tribe/)
 - [KFF_Health_News] Immigrant Seniors Lose Medicare Coverage Despite Paying for It — (_Mon, 06 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/immigrant-seniors-medicare-california-big-beautiful-bill-eligibility-taxes/)
 - [KFF_Health_News] How Medicaid Contractors Stand To Gain From Trump’s Policy — (_Fri, 03 Apr 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-deloitte-medicaid-contractors-trump-big-beautiful-bill/)
 - [KFF_Health_News] What the Health? From KFF Health News: GOP Mulls More Health Cuts — (_Thu, 02 Apr 2026 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-440-gop-health-cuts-iran-april-2-2026/)
 - [KFF_Health_News] State-Run Insurance Plans for Foster Kids Leave Some of Them Without Doctors — (_Thu, 02 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/foster-children-insurance-specialized-medicaid-healthy-blue-north-carolina/)
-- [KFF_Health_News] After Man’s Death Following Insurance Denials, West Virginia Tackles Prior Authorization — (_Wed, 01 Apr 2026 16:01:34 +0000_) — [Link](https://kffhealthnews.org/news/article/prior-authorization-insurance-delays-coverage-denials-state-laws-west-virginia/)
 
 ## Signals for Rural GME and Training Pipelines
 
