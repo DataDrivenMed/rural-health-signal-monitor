@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-04-07
+# Rural Health Policy Digest — 2026-04-08
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,34 +6,32 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Urgent Care Clinics Move To Fill Abortion Care Gaps in Rural Areas — (_Wed, 08 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/abortion-providers-clinics-closing-urgent-care-michigan-upper-peninsula/)
+- [KFF_Health_News] Trump’s Personnel Agency Is Asking for Federal Workers’ Medical Records — (_Wed, 08 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/trump-opm-federal-workers-medical-records-privacy/)
+- [KFF_Health_News] ¿Puedo decirle a mi médico que no quiero que use la inteligencia artificial para tomar notas? — (_Tue, 07 Apr 2026 16:14:51 +0000_) — [Link](https://kffhealthnews.org/news/article/puedo-decirle-a-mi-medico-que-no-quiero-que-use-la-inteligencia-artificial-para-tomar-notas/)
+- [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 07 Apr 2026 14:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2026/)
+- [KFF_Health_News] Personas mayores inmigrantes pierden la cobertura de Medicare a pesar de haber aportado por años — (_Tue, 07 Apr 2026 13:05:23 +0000_) — [Link](https://kffhealthnews.org/news/article/personas-mayores-inmigrantes-pierden-la-cobertura-de-medicare-a-pesar-de-haberla-pagado/)
 - [KFF_Health_News] Can I Opt Out of Having My Doctor Take Notes With AI? — (_Tue, 07 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/healthq-ai-scribes-notetaker-doctor-visit-data-privacy/)
 - [KFF_Health_News] This Northern Cheyenne Doula Was About To Start Getting Paid — Then Medicaid Cuts Hit — (_Tue, 07 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doula-care-indigenous-health-medicaid-cuts-montana-tribe/)
+- [KFF_Health_News] La búsqueda de Trump de inscritos indocumentados en Medicaid arroja muy pocos infractores — (_Mon, 06 Apr 2026 14:21:07 +0000_) — [Link](https://kffhealthnews.org/news/article/la-busqueda-de-trump-de-inscritos-indocumentados-en-medicaid-arroja-muy-pocos-infractores/)
+- [KFF_Health_News] Científicos de Estados Unidos secuencian 1.000 genomas del sarampión, eliminado durante años gracias a las vacunas — (_Mon, 06 Apr 2026 11:41:00 +0000_) — [Link](https://kffhealthnews.org/news/article/cientificos-de-estados-unidos-secuencian-1-000-genomas-del-sarampion-eliminado-durante-anos-gracias-a-las-vacunas/)
 - [KFF_Health_News] Immigrant Seniors Lose Medicare Coverage Despite Paying for It — (_Mon, 06 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/immigrant-seniors-medicare-california-big-beautiful-bill-eligibility-taxes/)
-- [KFF_Health_News] These Women Had Their Breasts Removed To Thwart Cancer. Then Came the Pain. — (_Mon, 06 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/post-mastectomy-pain-syndrome-breast-cancer-surgery-pmps/)
-- [KFF_Health_News] Journalists Capsulize Weight Loss News and ACA Premium Pressures — (_Sat, 04 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/on-air-april-4-2026-weight-loss-pills-aca-premiums/)
-- [KFF_Health_News] How Medicaid Contractors Stand To Gain From Trump’s Policy — (_Fri, 03 Apr 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-deloitte-medicaid-contractors-trump-big-beautiful-bill/)
-- [KFF_Health_News] Tax Time Brings Surprises for Some Who Receive ACA Subsidies — (_Fri, 03 Apr 2026 10:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/tax-tips-aca-affordable-care-act-obamacare-subsidies-income-owing/)
-- [KFF_Health_News] Listen: What the Vaccine Schedule Whiplash Means for Your Kids — (_Fri, 03 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/listen-wamu-health-hub-julie-rovner-explains-acip-vaccine-schedule-court-judge/)
-- [KFF_Health_News] What the Health? From KFF Health News: GOP Mulls More Health Cuts — (_Thu, 02 Apr 2026 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-440-gop-health-cuts-iran-april-2-2026/)
-- [KFF_Health_News] State-Run Insurance Plans for Foster Kids Leave Some of Them Without Doctors — (_Thu, 02 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/foster-children-insurance-specialized-medicaid-healthy-blue-north-carolina/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
 - [KFF_Health_News] This Northern Cheyenne Doula Was About To Start Getting Paid — Then Medicaid Cuts Hit — (_Tue, 07 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doula-care-indigenous-health-medicaid-cuts-montana-tribe/)
-- [KFF_Health_News] What the Health? From KFF Health News: GOP Mulls More Health Cuts — (_Thu, 02 Apr 2026 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-440-gop-health-cuts-iran-april-2-2026/)
 
 ## Opportunities & Funding Signals
 
+- [KFF_Health_News] Personas mayores inmigrantes pierden la cobertura de Medicare a pesar de haber aportado por años — (_Tue, 07 Apr 2026 13:05:23 +0000_) — [Link](https://kffhealthnews.org/news/article/personas-mayores-inmigrantes-pierden-la-cobertura-de-medicare-a-pesar-de-haberla-pagado/)
 - [KFF_Health_News] Immigrant Seniors Lose Medicare Coverage Despite Paying for It — (_Mon, 06 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/immigrant-seniors-medicare-california-big-beautiful-bill-eligibility-taxes/)
-- [KFF_Health_News] What the Health? From KFF Health News: GOP Mulls More Health Cuts — (_Thu, 02 Apr 2026 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-440-gop-health-cuts-iran-april-2-2026/)
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] Personas mayores inmigrantes pierden la cobertura de Medicare a pesar de haber aportado por años — (_Tue, 07 Apr 2026 13:05:23 +0000_) — [Link](https://kffhealthnews.org/news/article/personas-mayores-inmigrantes-pierden-la-cobertura-de-medicare-a-pesar-de-haberla-pagado/)
 - [KFF_Health_News] This Northern Cheyenne Doula Was About To Start Getting Paid — Then Medicaid Cuts Hit — (_Tue, 07 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/doula-care-indigenous-health-medicaid-cuts-montana-tribe/)
+- [KFF_Health_News] La búsqueda de Trump de inscritos indocumentados en Medicaid arroja muy pocos infractores — (_Mon, 06 Apr 2026 14:21:07 +0000_) — [Link](https://kffhealthnews.org/news/article/la-busqueda-de-trump-de-inscritos-indocumentados-en-medicaid-arroja-muy-pocos-infractores/)
 - [KFF_Health_News] Immigrant Seniors Lose Medicare Coverage Despite Paying for It — (_Mon, 06 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/immigrant-seniors-medicare-california-big-beautiful-bill-eligibility-taxes/)
-- [KFF_Health_News] How Medicaid Contractors Stand To Gain From Trump’s Policy — (_Fri, 03 Apr 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/news/article/the-week-in-brief-deloitte-medicaid-contractors-trump-big-beautiful-bill/)
-- [KFF_Health_News] What the Health? From KFF Health News: GOP Mulls More Health Cuts — (_Thu, 02 Apr 2026 19:00:00 +0000_) — [Link](https://kffhealthnews.org/news/podcast/what-the-health-440-gop-health-cuts-iran-april-2-2026/)
-- [KFF_Health_News] State-Run Insurance Plans for Foster Kids Leave Some of Them Without Doctors — (_Thu, 02 Apr 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/article/foster-children-insurance-specialized-medicaid-healthy-blue-north-carolina/)
 
 ## Signals for Rural GME and Training Pipelines
 
@@ -42,5 +40,5 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Notes for Louisiana / Deep South (LA, MS, AR, AL)
 
-- No items explicitly mentioning Louisiana, Mississippi, Arkansas, or Alabama.
-
+- [KFF_Health_News] ¿Puedo decirle a mi médico que no quiero que use la inteligencia artificial para tomar notas? — (_Tue, 07 Apr 2026 16:14:51 +0000_) — [Link](https://kffhealthnews.org/news/article/puedo-decirle-a-mi-medico-que-no-quiero-que-use-la-inteligencia-artificial-para-tomar-notas/)
+- [KFF_Health_News] Personas mayores inmigrantes pierden la cobertura de Medicare a pesar de haber aportado por años — (_Tue, 07 Apr 2026 13:05:23 +0000_) — [Link](https://kffhealthnews.org/news/article/personas-mayores-inmigrantes-pierden-la-cobertura-de-medicare-a-pesar-de-haberla-pagado/)
