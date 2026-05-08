@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-05-07
+# Rural Health Policy Digest — 2026-05-08
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Listen: A Federal Agency Is After Workers’ Health Data, and Critics Are Alarmed — (_Fri, 08 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/wamu-health-hub-opm-federal-worker-unredacted-medical-records-hipaa-audio/)
+- [KFF_Health_News] In California Governor Race, Single-Payer Is a Litmus Test. There’s Still No Way To Pay for It. — (_Fri, 08 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/california-governor-race-single-payer-healthcare-becerra-cma-steyer/)
 - [KFF_Health_News] That Discount at the Pharmacy Counter May Pack Hidden Costs — (_Thu, 07 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/pharmacy-discount-coupons-hidden-costs/)
 - [KFF_Health_News] Trump Promised Cheaper Drugs. Some Prices Dropped. Many Others Shot Up. — (_Thu, 07 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/trumprx-reality-check-drugs-not-always-cheaper/)
 - [KFF_Health_News] A New Medicare Option for Weight Loss Drugs: What Older Americans Should Know — (_Wed, 06 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/cheaper-glp-1-weight-loss-medicare-bridge-wegovy-zepbound-foundayo/)
@@ -14,8 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] States Eye Aid To Prop Up Distressed Hospitals Amid Federal Medicaid Cuts — (_Tue, 05 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/medicaid-cuts-distressed-hospitals-aid-california/)
 - [KFF_Health_News] HHS’ Healthy Food Agenda Puts Hospitals on Notice About Patients’ Meals — (_Mon, 04 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/hhs-healthy-hospital-food-patient-dietary-guidelines-backlash/)
 - [KFF_Health_News] She Survived 2 Shootings. Research Helps Explain Why Her Pain Persists Years Later. — (_Mon, 04 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/gun-violence-survivor-phantom-pain-research-minnesota/)
-- [KFF_Health_News] Journalists Share Latest on Baby Formula Safety, Estrogen Patches, and Postcancer Costs — (_Sat, 02 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-may-2-2026-baby-formula-safety-test-menopause-postcancer-care-costs/)
-- [KFF_Health_News] Prevention Efforts Increasingly See Suicide Through a Broader Lens — (_Fri, 01 May 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/mental-health/the-week-in-brief-suicide-prevention-efforts-broader-approach/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
