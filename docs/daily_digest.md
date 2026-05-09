@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-05-08
+# Rural Health Policy Digest — 2026-05-09
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Journalists Shed Light on Deadly Hantavirus Outbreak and a Crisis in the Nation’s ERs — (_Sat, 09 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-may-9-2026-hantavirus-virus-cruise-ship-outbreak-emergency-rooms-er/)
+- [KFF_Health_News] The Make America Healthy Again Movement Comes for Hospital Food — (_Fri, 08 May 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/the-week-in-brief-maha-movement-hospital-food/)
 - [KFF_Health_News] Listen: A Federal Agency Is After Workers’ Health Data, and Critics Are Alarmed — (_Fri, 08 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/wamu-health-hub-opm-federal-worker-unredacted-medical-records-hipaa-audio/)
 - [KFF_Health_News] In California Governor Race, Single-Payer Is a Litmus Test. There’s Still No Way To Pay for It. — (_Fri, 08 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/california-governor-race-single-payer-healthcare-becerra-cma-steyer/)
 - [KFF_Health_News] That Discount at the Pharmacy Counter May Pack Hidden Costs — (_Thu, 07 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/pharmacy-discount-coupons-hidden-costs/)
@@ -14,11 +16,10 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Trump’s Drug Strategy Aims To Bolster Addiction Services — Despite Gutting of Government Support — (_Wed, 06 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/trump-national-drug-control-strategy-addiction-treatment-funding-cuts/)
 - [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 05 May 2026 14:00:10 +0000_) — [Link](https://kffhealthnews.org/news/listen-to-the-latest-kff-health-news-minute-2026/)
 - [KFF_Health_News] States Eye Aid To Prop Up Distressed Hospitals Amid Federal Medicaid Cuts — (_Tue, 05 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/medicaid-cuts-distressed-hospitals-aid-california/)
-- [KFF_Health_News] HHS’ Healthy Food Agenda Puts Hospitals on Notice About Patients’ Meals — (_Mon, 04 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/hhs-healthy-hospital-food-patient-dietary-guidelines-backlash/)
-- [KFF_Health_News] She Survived 2 Shootings. Research Helps Explain Why Her Pain Persists Years Later. — (_Mon, 04 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/gun-violence-survivor-phantom-pain-research-minnesota/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
+- [KFF_Health_News] Journalists Shed Light on Deadly Hantavirus Outbreak and a Crisis in the Nation’s ERs — (_Sat, 09 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-may-9-2026-hantavirus-virus-cruise-ship-outbreak-emergency-rooms-er/)
 - [KFF_Health_News] Trump’s Drug Strategy Aims To Bolster Addiction Services — Despite Gutting of Government Support — (_Wed, 06 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/trump-national-drug-control-strategy-addiction-treatment-funding-cuts/)
 - [KFF_Health_News] States Eye Aid To Prop Up Distressed Hospitals Amid Federal Medicaid Cuts — (_Tue, 05 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/medicaid-cuts-distressed-hospitals-aid-california/)
 
