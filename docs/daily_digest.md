@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-05-15
+# Rural Health Policy Digest — 2026-05-16
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Journalists Unpack Latest on Vaccines, Vaping, and TrumpRx — (_Sat, 16 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-may-16-2026-vaccines-vaping-mifepristone-trumprx/)
+- [KFF_Health_News] Kennedy Swaps Vaccine Rhetoric for Story Time but Can’t Quite Change the Subject — (_Fri, 15 May 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/public-health/the-week-in-brief-rfk-jr-ohio-visit-maha-rhetoric/)
 - [KFF_Health_News] Minnesota Lawmaker Proposes Using Hospital Tax To Fill Charity Care Gap — (_Fri, 15 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/minnesota-hospitals-charity-care-tax-legislation/)
 - [KFF_Health_News] FDA Blocked Melanoma Drug as Confusion Reigned Under Makary — (_Fri, 15 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/fda-blocked-melanoma-drug-marty-makary-confusion-reigned/)
 - [KFF_Health_News] Kennedy, Balancing MAHA and White House, Says He Won’t Run for President in 2028 — (_Fri, 15 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/elections/rfk-jr-kennedy-2028-run-president-maha-trump-white-house/)
@@ -14,8 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Hantavirus News Roundup: From Céline Gounder of KFF Health News — (_Thu, 14 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/hantavirus-mv-hondius-news-roundup-celine-gounder-tv-clips/)
 - [KFF_Health_News] Trump and Kennedy Seek To Relax Safeguards for AI Healthcare Tools — (_Wed, 13 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/ai-artificial-intelligence-ambient-scribes-ehr-electronic-health-records-hhs-deregulation/)
 - [KFF_Health_News] RFK Jr. Swaps Vaccine Talk for Healthy Foods and Reading to Tots in Push To Woo Voters — (_Wed, 13 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/rfk-make-america-healthy-again-tour-midterms-ohio-food-head-start-vaccines/)
-- [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Tue, 12 May 2026 14:00:03 +0000_) — [Link](https://kffhealthnews.org/news/listen-to-the-latest-kff-health-news-minute-2026/)
-- [KFF_Health_News] Low Wages, Empty Plates, Heavy Toll: Rethinking Suicide Prevention — (_Tue, 12 May 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/mental-health/suicide-prevention-economic-assistance-mental-health-eleven-minutes/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
