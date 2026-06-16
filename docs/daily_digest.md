@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-06-15
+# Rural Health Policy Digest — 2026-06-16
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Backed by Threat of Clawbacks, Feds Wield Tight Grip on $50B Rural Health Fund — (_Tue, 16 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/rural-health-transformation-program-federal-cms-clawbacks-state-plans/)
+- [KFF_Health_News] Early-Onset Cancers Are on the Rise. Knowing Your Family History Is Crucial. — (_Tue, 16 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/healthq-early-onset-cancers-family-history/)
 - [KFF_Health_News] Long-Awaited Rule Aims To Boost ACA Choices While Embracing Higher Deductibles — (_Mon, 15 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/affordable-care-act-rule-more-choices-higher-deductibles/)
 - [KFF_Health_News] They’re Uninsured After Obamacare Became Too Costly. And They’re Far From Alone. — (_Mon, 15 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/uninsured-obamacare-affordable-care-act-aca-canceled-coverage-north-carolina/)
 - [KFF_Health_News] Journalists Highlight Medical Neglect in ICE Detention, RFK Jr. Antidepressant Comments — (_Sat, 13 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-june-13-2026-antidepressants-ice-medical-neglect-ebola-world-cup/)
@@ -14,24 +16,23 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Final Rules for Medicaid Work Requirements Are Out. Here’s What You Need To Know. — (_Fri, 12 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/medicaid-work-requirements-final-rules-exemptions-trump-cms/)
 - [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Thu, 11 Jun 2026 09:00:10 +0000_) — [Link](https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/)
 - [KFF_Health_News] Trump Bought Tobacco Stocks and Raked In Industry Donations as FDA Eased Standards — (_Thu, 11 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/courts/fda-tobacco-vape-vaping-ecigarette-smoking-trump-investments-maga-donations/)
-- [KFF_Health_News] FDA’s Greenlight of Old Chemical Offers Chance To Restore Faith in Sunscreen — (_Wed, 10 Jun 2026 17:02:49 +0000_) — [Link](https://kffhealthnews.org/public-health/fda-approval-sunscreen-chemical-bemotrizinol-consumer-trust-maha/)
-- [KFF_Health_News] Looming Medicaid Cuts Supercharge California’s Latest Labor-Industry Fight — (_Wed, 10 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/seiu-uhw-union-healthcare-industry-california-ballot-initiatives-clinic-executive-pay/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
-- [KFF_Health_News] Looming Medicaid Cuts Supercharge California’s Latest Labor-Industry Fight — (_Wed, 10 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/seiu-uhw-union-healthcare-industry-california-ballot-initiatives-clinic-executive-pay/)
+- No obvious risk-related headlines detected in today's feeds.
+
 
 ## Opportunities & Funding Signals
 
+- [KFF_Health_News] Backed by Threat of Clawbacks, Feds Wield Tight Grip on $50B Rural Health Fund — (_Tue, 16 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/rural-health-transformation-program-federal-cms-clawbacks-state-plans/)
 - [KFF_Health_News] California Health Worker Union, Hospital Association Tout Dueling Ballot Initiatives — (_Fri, 12 Jun 2026 18:30:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/the-week-in-brief-california-dueling-ballot-initiatives-union-hospital-association/)
-- [KFF_Health_News] Looming Medicaid Cuts Supercharge California’s Latest Labor-Industry Fight — (_Wed, 10 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/seiu-uhw-union-healthcare-industry-california-ballot-initiatives-clinic-executive-pay/)
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] Backed by Threat of Clawbacks, Feds Wield Tight Grip on $50B Rural Health Fund — (_Tue, 16 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/rural-health-transformation-program-federal-cms-clawbacks-state-plans/)
 - [KFF_Health_News] Long-Awaited Rule Aims To Boost ACA Choices While Embracing Higher Deductibles — (_Mon, 15 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/affordable-care-act-rule-more-choices-higher-deductibles/)
 - [KFF_Health_News] They’re Uninsured After Obamacare Became Too Costly. And They’re Far From Alone. — (_Mon, 15 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/uninsured-obamacare-affordable-care-act-aca-canceled-coverage-north-carolina/)
 - [KFF_Health_News] Final Rules for Medicaid Work Requirements Are Out. Here’s What You Need To Know. — (_Fri, 12 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/medicaid-work-requirements-final-rules-exemptions-trump-cms/)
-- [KFF_Health_News] Looming Medicaid Cuts Supercharge California’s Latest Labor-Industry Fight — (_Wed, 10 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/seiu-uhw-union-healthcare-industry-california-ballot-initiatives-clinic-executive-pay/)
 
 ## Signals for Rural GME and Training Pipelines
 
