@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-06-26
+# Rural Health Policy Digest — 2026-06-27
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,7 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Reporters Talk Through FDA Sunscreen Move and Closure of Rural Dialysis Clinics — (_Sat, 27 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-june-27-2026-fda-sunscreen-ingredient-filter-nebraska-rural-dialysis-clinics/)
 - [KFF_Health_News] Trouble Getting Weight Loss Drugs Covered by Insurance? Here’s What To Know — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/health-care-helpline-glp-1-zepbound-weight-loss-insurance-coverage/)
 - [KFF_Health_News] Efforts To End School Vaccine Mandates Hit a Wall in Florida — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/ending-vaccine-mandates-schools-florida-joseph-ladapo-measles/)
 - [KFF_Health_News] Medicare Advantage Company Pays $342M to Government in Midst of Billing Probe — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/medicare-advantage-cms-elevance-crackdown-overcharging-payment/)
@@ -15,12 +16,10 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Worried About Your Aging Parents? Welcome to the Caregiving Club — (_Tue, 23 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/healthq-sandwich-generation-caregiver-title-stages-expectant-aging-parents-tips/)
 - [KFF_Health_News] Medicare’s AI Push Snarls Patients and Doctors in Errors and Delays — (_Tue, 23 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/medicare-ai-prior-authorization-wiser-delays-errors/)
 - [KFF_Health_News] Indiana Takes On Powerful Hospitals by Capping Prices They Charge Employers — (_Mon, 22 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/hospitals-price-controls-indiana-cap-healthcare-costs-debate/)
-- [KFF_Health_News] Sandwiched Between Caring for Kids and Aging Parents? Reach Out for Resources — (_Thu, 18 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/mental-health/sandwich-generation-caring-for-children-aging-parents-resources/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
-- No obvious risk-related headlines detected in today's feeds.
-
+- [KFF_Health_News] Reporters Talk Through FDA Sunscreen Move and Closure of Rural Dialysis Clinics — (_Sat, 27 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-june-27-2026-fda-sunscreen-ingredient-filter-nebraska-rural-dialysis-clinics/)
 
 ## Opportunities & Funding Signals
 
