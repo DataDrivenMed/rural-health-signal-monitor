@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-06-29
+# Rural Health Policy Digest — 2026-06-30
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,9 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Would Hunters Take a Lyme Disease Vaccine? We Asked — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/hunters-lyme-disease-vaccine-ticks-attitudes-missouri/)
+- [KFF_Health_News] These Church Members Disagree on Politics. Together They’re Wiping Out Medical Debt. — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/medical-debt-common-ground-church-north-carolina/)
+- [KFF_Health_News] He Dreamed of Becoming a Physician Assistant. New Loan Rules May Thwart Him. — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/physician-assistant-professional-graduate-degrees-student-loan-limits/)
 - [KFF_Health_News] Florida Hospitals Act Fast To Discharge Gun Victims — Especially if They’re Not Insured — (_Mon, 29 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/florida-hospitals-guns-gunshot-firearm-wounds-uninsured-discharge-data-analysis/)
 - [KFF_Health_News] She Struggled To Get a Lifesaving Drug Even After Insurers Vowed To Help — (_Mon, 29 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/prior-authorization-medicare-advantage-humana-missouri-bill-of-the-month-june-2026/)
 - [KFF_Health_News] Reporters Talk Through FDA Sunscreen Move and Closure of Rural Dialysis Clinics — (_Sat, 27 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-june-27-2026-fda-sunscreen-ingredient-filter-nebraska-rural-dialysis-clinics/)
@@ -13,9 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Efforts To End School Vaccine Mandates Hit a Wall in Florida — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/ending-vaccine-mandates-schools-florida-joseph-ladapo-measles/)
 - [KFF_Health_News] Medicare Advantage Company Pays $342M to Government in Midst of Billing Probe — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/medicare-advantage-cms-elevance-crackdown-overcharging-payment/)
 - [KFF_Health_News] Opioid Settlement Money Pays for Services To Battle Addiction in Rural Kentucky — (_Thu, 25 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/opioid-settlement-money-harm-reduction-services-rural-kentucky/)
-- [KFF_Health_News] Democrats To Propose Bill Capping Out-of-Pocket Medicare Costs for Enrollees — (_Thu, 25 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/medicare-costs-out-of-pocket-cap-democrats-senate-wyden-midterms/)
-- [KFF_Health_News] Even in Blue States, Hospitals Have Continued To Drop Gender-Affirming Care for Youths — (_Wed, 24 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/gender-affirming-care-trump-hospitals-transgender-massachusetts/)
-- [KFF_Health_News] Worried About Your Aging Parents? Welcome to the Caregiving Club — (_Tue, 23 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/healthq-sandwich-generation-caregiver-title-stages-expectant-aging-parents-tips/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
@@ -23,14 +23,13 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## Opportunities & Funding Signals
 
+- [KFF_Health_News] Would Hunters Take a Lyme Disease Vaccine? We Asked — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/hunters-lyme-disease-vaccine-ticks-attitudes-missouri/)
 - [KFF_Health_News] Opioid Settlement Money Pays for Services To Battle Addiction in Rural Kentucky — (_Thu, 25 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/opioid-settlement-money-harm-reduction-services-rural-kentucky/)
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] He Dreamed of Becoming a Physician Assistant. New Loan Rules May Thwart Him. — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/physician-assistant-professional-graduate-degrees-student-loan-limits/)
 - [KFF_Health_News] Medicare Advantage Company Pays $342M to Government in Midst of Billing Probe — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/medicare-advantage-cms-elevance-crackdown-overcharging-payment/)
-- [KFF_Health_News] Democrats To Propose Bill Capping Out-of-Pocket Medicare Costs for Enrollees — (_Thu, 25 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/medicare-costs-out-of-pocket-cap-democrats-senate-wyden-midterms/)
-- [KFF_Health_News] Even in Blue States, Hospitals Have Continued To Drop Gender-Affirming Care for Youths — (_Wed, 24 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/gender-affirming-care-trump-hospitals-transgender-massachusetts/)
-- [KFF_Health_News] Worried About Your Aging Parents? Welcome to the Caregiving Club — (_Tue, 23 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/healthq-sandwich-generation-caregiver-title-stages-expectant-aging-parents-tips/)
 
 ## Signals for Rural GME and Training Pipelines
 
