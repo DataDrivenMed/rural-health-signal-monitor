@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-06-30
+# Rural Health Policy Digest — 2026-07-01
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Affordable Healthcare Emerges as a Voter Priority in Purple Nevada — (_Wed, 01 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/elections/midterm-elections-nevada-governor-joe-lombardo-aaron-ford-affordability-healthcare/)
+- [KFF_Health_News] Newsom Vowed To Transform Kids’ Mental Health. Many California Schools Are Still Waiting. — (_Wed, 01 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/mental-health/newsom-children-mental-health-initiative-schools-left-waiting/)
 - [KFF_Health_News] Would Hunters Take a Lyme Disease Vaccine? We Asked — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/hunters-lyme-disease-vaccine-ticks-attitudes-missouri/)
 - [KFF_Health_News] These Church Members Disagree on Politics. Together They’re Wiping Out Medical Debt. — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/medical-debt-common-ground-church-north-carolina/)
 - [KFF_Health_News] He Dreamed of Becoming a Physician Assistant. New Loan Rules May Thwart Him. — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/physician-assistant-professional-graduate-degrees-student-loan-limits/)
@@ -14,22 +16,21 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Reporters Talk Through FDA Sunscreen Move and Closure of Rural Dialysis Clinics — (_Sat, 27 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-june-27-2026-fda-sunscreen-ingredient-filter-nebraska-rural-dialysis-clinics/)
 - [KFF_Health_News] Trouble Getting Weight Loss Drugs Covered by Insurance? Here’s What To Know — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/health-care-helpline-glp-1-zepbound-weight-loss-insurance-coverage/)
 - [KFF_Health_News] Efforts To End School Vaccine Mandates Hit a Wall in Florida — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/ending-vaccine-mandates-schools-florida-joseph-ladapo-measles/)
-- [KFF_Health_News] Medicare Advantage Company Pays $342M to Government in Midst of Billing Probe — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/medicare-advantage-cms-elevance-crackdown-overcharging-payment/)
-- [KFF_Health_News] Opioid Settlement Money Pays for Services To Battle Addiction in Rural Kentucky — (_Thu, 25 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/opioid-settlement-money-harm-reduction-services-rural-kentucky/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
+- [KFF_Health_News] Affordable Healthcare Emerges as a Voter Priority in Purple Nevada — (_Wed, 01 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/elections/midterm-elections-nevada-governor-joe-lombardo-aaron-ford-affordability-healthcare/)
 - [KFF_Health_News] Reporters Talk Through FDA Sunscreen Move and Closure of Rural Dialysis Clinics — (_Sat, 27 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-june-27-2026-fda-sunscreen-ingredient-filter-nebraska-rural-dialysis-clinics/)
 
 ## Opportunities & Funding Signals
 
+- [KFF_Health_News] Newsom Vowed To Transform Kids’ Mental Health. Many California Schools Are Still Waiting. — (_Wed, 01 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/mental-health/newsom-children-mental-health-initiative-schools-left-waiting/)
 - [KFF_Health_News] Would Hunters Take a Lyme Disease Vaccine? We Asked — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/hunters-lyme-disease-vaccine-ticks-attitudes-missouri/)
-- [KFF_Health_News] Opioid Settlement Money Pays for Services To Battle Addiction in Rural Kentucky — (_Thu, 25 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/opioid-settlement-money-harm-reduction-services-rural-kentucky/)
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] Affordable Healthcare Emerges as a Voter Priority in Purple Nevada — (_Wed, 01 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/elections/midterm-elections-nevada-governor-joe-lombardo-aaron-ford-affordability-healthcare/)
 - [KFF_Health_News] He Dreamed of Becoming a Physician Assistant. New Loan Rules May Thwart Him. — (_Tue, 30 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/physician-assistant-professional-graduate-degrees-student-loan-limits/)
-- [KFF_Health_News] Medicare Advantage Company Pays $342M to Government in Midst of Billing Probe — (_Fri, 26 Jun 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicare/medicare-advantage-cms-elevance-crackdown-overcharging-payment/)
 
 ## Signals for Rural GME and Training Pipelines
 
