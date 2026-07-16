@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-07-15
+# Rural Health Policy Digest — 2026-07-16
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,9 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Thu, 16 Jul 2026 09:00:03 +0000_) — [Link](https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/)
+- [KFF_Health_News] A Sales Tax on Doctor Visits and Medicine? In Missouri, Some Worry — (_Thu, 16 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/sales-tax-healthcare-services-missouri-state-amendment-revenue/)
+- [KFF_Health_News] Readers Share Personal Insights on Deadly Denials and Pregnancy Centers — (_Thu, 16 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/letter-to-the-editor/reader-response-deadly-denials-pregnancy-centers-glp1-july-2026/)
 - [KFF_Health_News] Facing Funding Losses, States Call Out Big Businesses With Employees on Medicaid — (_Wed, 15 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/medicaid-work-requirement-big-business-employee-enrollees-states-name-shame/)
 - [KFF_Health_News] Knee Pain? Ragged Cartilage? Research Suggests Surgery’s Not the Best Answer — (_Tue, 14 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/knee-surgery-arthroscopic-cartilage-meniscus-finnish-study-osteoarthritis/)
 - [KFF_Health_News] Lawmakers Look To Make Abortion Shield Laws Less Dependent on Who’s Governor — (_Tue, 14 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/courts/shield-laws-abortion-pills-extradition-doctors-governor-california-newsom-hilton-becerra/)
@@ -13,9 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Journalists Discuss Raw-Milk Marketing, Extreme Heat, Opioid Settlement Spending — (_Sat, 11 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-july-11-2026-raw-milk-formula-recall-extreme-heat-opioid-settlements/)
 - [KFF_Health_News] A New Option for Long-Term Care Costs — (_Fri, 10 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/syndicate/long-term-care-costs-washington-state-payroll-option/)
 - [KFF_Health_News] They Harvest the Nation’s Food, but a New Rule May Strip Them of Health Insurance — (_Fri, 10 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/agricultural-workers-medicaid-eligibility-immigration-food-harvest/)
-- [KFF_Health_News] My Search for a Psychiatric Bed in an Overburdened Health System — (_Thu, 09 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/psychiatric-bed-shortage-overburdened-health-system/)
-- [KFF_Health_News] Affordable Care Act Insurers Want More Premium Increases as Enrollment Sags — (_Wed, 08 Jul 2026 09:01:00 +0000_) — [Link](https://kffhealthnews.org/insurance/priced-out-obamacare-affordable-care-act-aca-premium-increases-peterson-kff/)
-- [KFF_Health_News] Patients Face a Thicket of Red Tape Trying To Maintain Consistent Health Coverage — (_Wed, 08 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/priced-out-red-tape-insurance-costs-health-system-plan-switching-disruptions/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
@@ -27,7 +27,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Facing Funding Losses, States Call Out Big Businesses With Employees on Medicaid — (_Wed, 15 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/medicaid-work-requirement-big-business-employee-enrollees-states-name-shame/)
 - [KFF_Health_News] As GOP Cries Fraud, Newsom Backs Medicaid Spending on Housing and Food — (_Mon, 13 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/medicaid-social-services-gavin-newsom-california-republican-criticism/)
 - [KFF_Health_News] A New Option for Long-Term Care Costs — (_Fri, 10 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/syndicate/long-term-care-costs-washington-state-payroll-option/)
-- [KFF_Health_News] Affordable Care Act Insurers Want More Premium Increases as Enrollment Sags — (_Wed, 08 Jul 2026 09:01:00 +0000_) — [Link](https://kffhealthnews.org/insurance/priced-out-obamacare-affordable-care-act-aca-premium-increases-peterson-kff/)
 
 ## Legislation & Regulations to Watch
 
