@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-07-26
+# Rural Health Policy Digest — 2026-07-27
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Tracking State Rural Health Transformation Plans — (_Mon, 27 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/tracking-state-rural-health-transformation-plans/)
+- [KFF_Health_News] Trump Administration Demands Hospitals Share Emergency Room Records — (_Mon, 27 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/cpsc-consumer-product-safety-commission-trump-er-injury-data-grab-neiss-konza/)
 - [KFF_Health_News] Journalists Assess Risks of Tick Bites, Wildfire Smoke, Rising Health Costs — (_Sat, 25 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-july-25-2026-aca-tick-bites-wildfire-smoke-health-costs/)
 - [KFF_Health_News] To Afford Aging in Place, Older Adults Turn to ‘Golden Girls’ Housing — (_Fri, 24 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/golden-girls-home-sharing-older-adults-colorado-pennsylvania/)
 - [KFF_Health_News] Watch: GOP Senator Says Trump’s Tariffs Could Mean Safer Drugs — For a Price — (_Fri, 24 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/bill-cassidy-interview-senate-trump-tariffs-drug-prices-rfk-promises/)
@@ -14,15 +16,12 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Public Health Improvements Stall Amid Trump’s DEI Crackdown — (_Thu, 23 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/epa-grants-public-health-improvements-stall-trump-dei-crackdown-georgia/)
 - [KFF_Health_News] A Death Revives Concerns About Police Brutality Six Years After National Reckoning — (_Thu, 23 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/police-brutality-mental-health-crisis-national-reckoning-sikeston-missouri/)
 - [KFF_Health_News] American Scientists See Prosecutions as Part of Federal Campaign Against Them — (_Wed, 22 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/american-scientists-virologist-charges-mpox-samples-rocky-mountain-laboratories/)
-- [KFF_Health_News] Trump’s Personnel Agency Says It Will Remove Some Identifying Info as It Sweeps Up Medical Records — (_Wed, 22 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/trump-opm-federal-workers-medical-records-data-privacy-pseudonymize/)
-- [KFF_Health_News] Leadership Vacuum: Agencies in New York and Beyond Pass the Buck on Opioid Cash Oversight — (_Tue, 21 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/opioid-settlement-funds-leadership-vacuum-disbursement-oversight-new-york/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
 - [KFF_Health_News] Journalists Assess Risks of Tick Bites, Wildfire Smoke, Rising Health Costs — (_Sat, 25 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-july-25-2026-aca-tick-bites-wildfire-smoke-health-costs/)
 - [KFF_Health_News] To Afford Aging in Place, Older Adults Turn to ‘Golden Girls’ Housing — (_Fri, 24 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/golden-girls-home-sharing-older-adults-colorado-pennsylvania/)
 - [KFF_Health_News] American Scientists See Prosecutions as Part of Federal Campaign Against Them — (_Wed, 22 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/american-scientists-virologist-charges-mpox-samples-rocky-mountain-laboratories/)
-- [KFF_Health_News] Leadership Vacuum: Agencies in New York and Beyond Pass the Buck on Opioid Cash Oversight — (_Tue, 21 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/opioid-settlement-funds-leadership-vacuum-disbursement-oversight-new-york/)
 
 ## Opportunities & Funding Signals
 
@@ -34,7 +33,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] To Afford Aging in Place, Older Adults Turn to ‘Golden Girls’ Housing — (_Fri, 24 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/golden-girls-home-sharing-older-adults-colorado-pennsylvania/)
 - [KFF_Health_News] Watch: GOP Senator Says Trump’s Tariffs Could Mean Safer Drugs — For a Price — (_Fri, 24 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/bill-cassidy-interview-senate-trump-tariffs-drug-prices-rfk-promises/)
 - [KFF_Health_News] American Scientists See Prosecutions as Part of Federal Campaign Against Them — (_Wed, 22 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/american-scientists-virologist-charges-mpox-samples-rocky-mountain-laboratories/)
-- [KFF_Health_News] Leadership Vacuum: Agencies in New York and Beyond Pass the Buck on Opioid Cash Oversight — (_Tue, 21 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/opioid-settlement-funds-leadership-vacuum-disbursement-oversight-new-york/)
 
 ## Signals for Rural GME and Training Pipelines
 
