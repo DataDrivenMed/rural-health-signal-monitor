@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-07-31
+# Rural Health Policy Digest — 2026-08-01
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,7 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Journalists Catch You Up on Fauci Hearing, Peptides, and Kids’ Caffeine Consumption — (_Sat, 01 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-august-1-2026-fauci-hearing-fda-peptides-epa-grants-children-caffeine/)
 - [KFF_Health_News] The Newest Federally Recognized Tribe Wants Better Healthcare. It May Be On Its Own. — (_Fri, 31 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/tribe-native-disparities-indian-health-service-federal-recognition-lumbee-north-carolina/)
 - [KFF_Health_News] They Worked To Protect Public Health. Now They Want the Public’s Votes. — (_Fri, 31 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/elections/election-midterms-candidates-becerra-acton-el-sayed-california-ohio-michigan/)
 - [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Thu, 30 Jul 2026 09:00:11 +0000_) — [Link](https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/)
@@ -15,7 +16,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Trump Has Quietly Throttled an Agency Devoted to the Safety of American Healthcare — (_Wed, 29 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/ahrq-funding-grants-trump-healthcare-safety-research-agency-hobbled/)
 - [KFF_Health_News] Uninsured but Undaunted, a Surgical Patient Searched the Globe for a Deal — (_Wed, 29 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/hernia-surgery-search-globe-for-deal-bill-of-the-month-july-2026/)
 - [KFF_Health_News] Newsom Reverses on Long-Sought Paid Leave Benefit for Teachers in California — (_Tue, 28 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/elections/newsom-california-teacher-paid-maternal-pregnancy-leave-reversal/)
-- [KFF_Health_News] Federal Loan Caps Add Barriers — And Likely Debt — for Healthcare Students — (_Tue, 28 Jul 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/wamu-health-hub-federal-loan-caps-healthcare-careers-student-debt/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
