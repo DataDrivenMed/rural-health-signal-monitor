@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-08-07
+# Rural Health Policy Digest — 2026-08-08
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,7 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Journalists Cover Cyclospora and Measles Outbreaks, and Changing Health Policies — (_Sat, 08 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-august-8-2026-cyclospora-measles-work-requirements-part-d-subsidy/)
 - [KFF_Health_News] Budget Battle Erupts in Nation’s Capital Over Opioid Settlement Money — (_Fri, 07 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/washington-dc-opioid-settlements-medicaid-budget-supplantation/)
 - [KFF_Health_News] Watch: Why Abortions Are on the Rise Since ‘Roe’ Was Overturned — (_Fri, 07 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/courts/video-five-things-abortions-increase-since-roe-overturned/)
 - [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Thu, 06 Aug 2026 09:00:49 +0000_) — [Link](https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/)
@@ -15,11 +16,11 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Baltimore Is Rethinking What It Means To Call 911 — And Who Responds — (_Wed, 05 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/baltimore-911-mental-health-calls-police-social-services-mobile-crisis-teams/)
 - [KFF_Health_News] Nurses Chase Cyclospora, Aided by Interviews, Fast-Food Receipts — And the Messy Details — (_Tue, 04 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/cyclospora-cyclosporiasis-outbreak-diarrhea-contact-tracing-michigan/)
 - [KFF_Health_News] AI Is Being Used to Boost Medicaid Enrollment, but Not Without Concerns — (_Tue, 04 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/medicaid-work-requirements-medi-cal-ai-agents-reenroll-careforce-california/)
-- [KFF_Health_News] People With Disabilities Fear Service Cuts as Trump’s DOJ Questions Legal Protections — (_Mon, 03 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/syndicate/people-with-disabilities-fear-service-cuts-as-trumps-doj-questions-legal-protections/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
-- [KFF_Health_News] People With Disabilities Fear Service Cuts as Trump’s DOJ Questions Legal Protections — (_Mon, 03 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/syndicate/people-with-disabilities-fear-service-cuts-as-trumps-doj-questions-legal-protections/)
+- No obvious risk-related headlines detected in today's feeds.
+
 
 ## Opportunities & Funding Signals
 
