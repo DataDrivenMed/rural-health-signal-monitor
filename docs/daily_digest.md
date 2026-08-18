@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-08-17
+# Rural Health Policy Digest — 2026-08-18
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,21 +6,21 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Drive for Nuclear Power Boosts Uranium Industry — And Tribal Health Concerns in Southwest — (_Tue, 18 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/tribal-health-concerns-utah-uranium-mining-industry/)
+- [KFF_Health_News] What Geriatric Emergency Departments Do Differently — (_Tue, 18 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/geriatric-emergency-departments-explained-new-old-age/)
 - [KFF_Health_News] Kennedy’s Quiet Hunt for Autism Culprits Stalls as Trump Orders Baseless Changes to Childhood Shots — (_Mon, 17 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/public-health/autism-vaccines-rfk-trump-childhood-schedule-changes-debunked-link/)
 - [KFF_Health_News] Newsom Promotes Affordable Insulin, but California’s Generic Label Off to a Slow Start — (_Mon, 17 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/gavin-newsom-calrx-state-branded-insulin-generic-biosimilar-drugs-rollout/)
 - [KFF_Health_News] Gounder Brings Clarity to Egg Freezing, AI Virus Creation, and New Trump Vaccine Order — (_Sat, 15 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-august-15-2026-public-health-vaccines-egg-freezing-organ-donation/)
-- [KFF_Health_News] Trump Team’s Use of Arcane Budget Rule Threatens Medicaid Coverage — (_Fri, 14 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/trump-cms-medicaid-expansion-1115-waivers-budget-neutrality-arkansas/)
 - [KFF_Health_News] My Husband Was Kicked Out of Hospice for Dying Too Slowly — (_Fri, 14 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/hospice-eligibility-rebound-guide-discharge-appeals/)
+- [KFF_Health_News] Trump Team’s Use of Arcane Budget Rule Threatens Medicaid Coverage — (_Fri, 14 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/trump-cms-medicaid-expansion-1115-waivers-budget-neutrality-arkansas/)
 - [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Thu, 13 Aug 2026 09:00:49 +0000_) — [Link](https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/)
 - [KFF_Health_News] Readers Speak Out on Work Requirements, Federal Data Grab, Opioid Payback Cash — (_Thu, 13 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/letter-to-the-editor/readers-work-requirements-federal-data-grab-opioid-payback-cash-prior-authorization-august-2026/)
 - [KFF_Health_News] People With Disabilities Say Medicaid’s Limits on Income Stifle Career Advancement — (_Thu, 13 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/medicaid-disabled-work-requirements-income-limits-iowa/)
-- [KFF_Health_News] Years After He Quit Smoking, a Lung Cancer Scan Saved His Life — (_Wed, 12 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/new-old-age-lung-cancer-screening-rates-smoking-survival/)
-- [KFF_Health_News] Hospitals Say They Found a Tool To Help Reduce Childbirth Risks: Wristbands — (_Wed, 12 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/gave-birth-wristbands-bracelets-postpartum-pregnancy-maternal-mortality-north-carolina/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
-- [KFF_Health_News] Years After He Quit Smoking, a Lung Cancer Scan Saved His Life — (_Wed, 12 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/new-old-age-lung-cancer-screening-rates-smoking-survival/)
-- [KFF_Health_News] Hospitals Say They Found a Tool To Help Reduce Childbirth Risks: Wristbands — (_Wed, 12 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/gave-birth-wristbands-bracelets-postpartum-pregnancy-maternal-mortality-north-carolina/)
+- No obvious risk-related headlines detected in today's feeds.
+
 
 ## Opportunities & Funding Signals
 
@@ -30,7 +30,6 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 - [KFF_Health_News] Trump Team’s Use of Arcane Budget Rule Threatens Medicaid Coverage — (_Fri, 14 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/medicaid/trump-cms-medicaid-expansion-1115-waivers-budget-neutrality-arkansas/)
 - [KFF_Health_News] People With Disabilities Say Medicaid’s Limits on Income Stifle Career Advancement — (_Thu, 13 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/insurance/medicaid-disabled-work-requirements-income-limits-iowa/)
-- [KFF_Health_News] Hospitals Say They Found a Tool To Help Reduce Childbirth Risks: Wristbands — (_Wed, 12 Aug 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/gave-birth-wristbands-bracelets-postpartum-pregnancy-maternal-mortality-north-carolina/)
 
 ## Signals for Rural GME and Training Pipelines
 
