@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-09-05
+# Rural Health Policy Digest — 2026-09-06
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
