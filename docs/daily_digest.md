@@ -1,4 +1,4 @@
-# Rural Health Policy Digest — 2026-10-05
+# Rural Health Policy Digest — 2026-10-06
 
 _Automated rule-based summary of 10 rural-relevant news items from multiple feeds._
 
@@ -6,6 +6,8 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 
 ## What Changed in Rural Health Policy Today
 
+- [KFF_Health_News] Before Saying Yes to the Medical Test, Know the Risks and Benefits — (_Tue, 06 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/healthq-medical-tests-overtesting-risks-benefits-mri-full-body-scans/)
+- [KFF_Health_News] Witnessing the Failed Execution of Christa Pike: ‘We Could All Hear Her Breathing’ — (_Tue, 06 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/courts/christa-pike-failed-execution-media-witness-account-lethal-injection-tennessee/)
 - [KFF_Health_News] Trump’s Immigration Crackdown Divides Rural Voters, KFF-AP Poll Finds — (_Mon, 05 Oct 2026 10:01:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/ap-kff-rural-voter-poll-midterms-immigration-crackdown-views-economy/)
 - [KFF_Health_News] Doctors Should Keep an Eye on Your Mix of Medication. If They Don’t, You Should. — (_Mon, 05 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/wamu-health-hub-audio-rx-checkup-deprescribing-how-pills-mix/)
 - [KFF_Health_News] Journalists Evaluate Rural Voter Sentiment, MAHA Movement, and Gene-Editing Finding — (_Sat, 03 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/on-air/on-air-october-3-2026-kff-ap-rural-voter-poll-glp1-rfk-maha-summit-claude/)
@@ -14,22 +16,20 @@ _Automated rule-based summary of 10 rural-relevant news items from multiple feed
 - [KFF_Health_News] Listen to the Latest ‘KFF Health News Minute’ — (_Thu, 01 Oct 2026 13:11:57 +0000_) — [Link](https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/)
 - [KFF_Health_News] Hospitals Have a Little-Known Tool To Prevent Medical Debt. Here’s How It Works. — (_Thu, 01 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-care-costs/medical-debt-hospital-bills-presumptive-eligibility-explainer-charity-care/)
 - [KFF_Health_News] Healthcare Is Scary. Channel Your Fears Into a Haiku. — (_Thu, 01 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/news/halloween-haiku-contest-2026-scary-healthcare/)
-- [KFF_Health_News] Rural MAHA Followers Say Trump Health Policies Haven’t Reached Their Communities — (_Wed, 30 Sep 2026 10:01:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/kff-ap-poll-rural-voters-maha-make-america-healthy-again-local-impact-midterms/)
-- [KFF_Health_News] Drugs Are Widely Used To Sedate Dementia Patients. Her Sons Wanted To Keep Her Off Them. — (_Wed, 30 Sep 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/aging/dementia-drugs-antipsychotic-dangers-memory-care-seniors-alzheimers-michigan/)
 
 ## Top Risks for Rural Hospitals and Clinics
 
-- No obvious risk-related headlines detected in today's feeds.
-
+- [KFF_Health_News] Before Saying Yes to the Medical Test, Know the Risks and Benefits — (_Tue, 06 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/health-industry/healthq-medical-tests-overtesting-risks-benefits-mri-full-body-scans/)
+- [KFF_Health_News] Witnessing the Failed Execution of Christa Pike: ‘We Could All Hear Her Breathing’ — (_Tue, 06 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/courts/christa-pike-failed-execution-media-witness-account-lethal-injection-tennessee/)
 
 ## Opportunities & Funding Signals
 
 - [KFF_Health_News] Trump’s Immigration Crackdown Divides Rural Voters, KFF-AP Poll Finds — (_Mon, 05 Oct 2026 10:01:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/ap-kff-rural-voter-poll-midterms-immigration-crackdown-views-economy/)
 - [KFF_Health_News] Midterms Have Revived Universal Healthcare Debate. These States Are Ahead of Everyone. — (_Fri, 02 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/elections/single-payer-universal-healthcare-debate-midterms-oregon-proposal/)
-- [KFF_Health_News] Rural MAHA Followers Say Trump Health Policies Haven’t Reached Their Communities — (_Wed, 30 Sep 2026 10:01:00 +0000_) — [Link](https://kffhealthnews.org/rural-health/kff-ap-poll-rural-voters-maha-make-america-healthy-again-local-impact-midterms/)
 
 ## Legislation & Regulations to Watch
 
+- [KFF_Health_News] Witnessing the Failed Execution of Christa Pike: ‘We Could All Hear Her Breathing’ — (_Tue, 06 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/courts/christa-pike-failed-execution-media-witness-account-lethal-injection-tennessee/)
 - [KFF_Health_News] Midterms Have Revived Universal Healthcare Debate. These States Are Ahead of Everyone. — (_Fri, 02 Oct 2026 09:00:00 +0000_) — [Link](https://kffhealthnews.org/elections/single-payer-universal-healthcare-debate-midterms-oregon-proposal/)
 
 ## Signals for Rural GME and Training Pipelines
